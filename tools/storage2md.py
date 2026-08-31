@@ -121,14 +121,19 @@ class Converter:
 
     def _h(self, el, n):
         txt = " ".join(self.kids(el).split())
-        return self.block("#" * n + " " + txt) if txt else ""
+        if not txt:
+            return ""
+        if getattr(self, "in_cell", False):      # in Tabellenzellen gibt es keine Ueberschriften
+            return "\n**" + txt.strip("*") + "**\n"
+        return self.block("#" * n + " " + txt)
 
     for _i in range(1, 7):
         exec("def t_h%d(self, el): return self._h(el, %d)" % (_i, _i))
 
     def t_blockquote(self, el):
         body = self.kids(el).strip()
-        return self.block("\n".join("> " + l if l.strip() else ">" for l in body.split("\n")))
+        q = "\n".join("> " + l if l.strip() else ">" for l in body.split("\n"))
+        return self.block(re.sub(r"(?:\n>[ \t]*(?=\n))+", "\n>", q).strip())
 
     def t_pre(self, el):
         return self.block("```\n" + self.raw_text(el).strip("\n") + "\n```")
@@ -183,7 +188,10 @@ class Converter:
                 if lt not in ("td", "th"):
                     continue
                 head = head or lt == "th"
+                self.in_cell = True
                 txt = re.sub(r"\s*\n\s*", "<br>", self.kids(td).strip())
+                self.in_cell = False
+                txt = re.sub(r"^(?:<br>)+|(?:<br>)+$", "", re.sub(r"(<br>)+", "<br>", txt))
                 cells.append(txt.replace("|", "\\|").strip() or " ")
             if cells:
                 rows.append((head, cells))
@@ -196,10 +204,10 @@ class Converter:
             out.append("| " + " | ".join(cells) + " |")
             if i == 0:
                 out.append("|" + "---|" * width)
-        if not rows[0][0]:                       # keine Kopfzeile: leere einziehen
+        if not rows[0][0]:                       # keine Kopfzeile: leere Kopfzeile einziehen
             out.insert(0, "|" + "---|" * width)
             out.insert(0, "|" + "   |" * width)
-            out.pop(2)
+            out.pop(3)
         return self.block("\n".join(out))
 
     # ---------- Inline ----------
@@ -375,6 +383,7 @@ class Converter:
             inner = self.kids(body).strip() if body is not None else ""
             head = ("**%s**\n\n" % esc(label)) if label else ""
             quoted = "\n".join("> " + l if l.strip() else ">" for l in (head + inner).split("\n"))
+            quoted = re.sub(r"(?:\n>[ \t]*(?=\n))+", "\n>", quoted).strip()
             return self.block(quoted)
 
         if name == "expand":

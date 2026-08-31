@@ -108,9 +108,18 @@ def build_model():
     for p in by_id.values():
         p["attachments"] = []
     orphans = []
-    for a in atts:
+    seen_files = {}
+    for a in sorted(atts, key=lambda x: str(x.get("id"))):
         cid = str((a.get("container") or {}).get("id", ""))
-        a["file"] = asset_name(a.get("title"))
+        fn = asset_name(a.get("title"))
+        key = (cid, fn.lower())
+        if key in seen_files:                 # gleicher Dateiname auf derselben Seite
+            base, ext = os.path.splitext(fn)
+            seen_files[key] += 1
+            fn = "%s-%d%s" % (base, seen_files[key], ext)
+        else:
+            seen_files[key] = 1
+        a["file"] = fn
         if cid in by_id:
             by_id[cid]["attachments"].append(a)
         else:

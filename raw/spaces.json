@@ -1,0 +1,376 @@
+[
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "557058",
+  "createdAt": "2013-06-22T13:19:09Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Shopping Tipps",
+  "key": "MSTIPS",
+  "id": "557056",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/MSTIPS"
+  },
+  "currentActiveAlias": "MSTIPS"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "688130",
+  "createdAt": "2020-01-07T08:21:55.577Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Frontpanels",
+  "key": "FRONTPANELS",
+  "id": "688128",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/FRONTPANELS"
+  },
+  "currentActiveAlias": "FRONTPANELS"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "688133",
+  "createdAt": "2014-09-11T09:40:49Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "DIY Eurorack",
+  "key": "CHECKMATE",
+  "id": "688131",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/CHECKMATE"
+  },
+  "currentActiveAlias": "CHECKMATE"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "884738",
+  "createdAt": "2019-12-17T11:16:45.705Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "IT",
+  "key": "IT",
+  "id": "884736",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/IT"
+  },
+  "currentActiveAlias": "IT"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1015810",
+  "createdAt": "2016-11-23T11:55:23Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "LED Projects",
+  "key": "LED",
+  "id": "1015808",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/LED"
+  },
+  "currentActiveAlias": "LED"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1015813",
+  "createdAt": "2018-05-09T11:26:43.406Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "KIJIMI",
+  "key": "KIJIMI",
+  "id": "1015811",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/KIJIMI"
+  },
+  "currentActiveAlias": "KIJIMI"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1146882",
+  "createdAt": "2013-06-22T13:54:31Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "DIY Synth other",
+  "key": "DSO",
+  "id": "1146880",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/DSO"
+  },
+  "currentActiveAlias": "DSO"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1310725",
+  "createdAt": "2016-01-28T10:01:32Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "TTSH",
+  "key": "TTSH",
+  "id": "1310723",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/TTSH"
+  },
+  "currentActiveAlias": "TTSH"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1310731",
+  "createdAt": "2022-06-06T15:39:47.299Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Antonus2600 Original Size",
+  "key": "A2600FS",
+  "id": "1310729",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/A2600FS"
+  },
+  "currentActiveAlias": "A2600FS"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1310734",
+  "createdAt": "2022-08-26T14:53:56.796Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "ISENIN",
+  "key": "ISENIN",
+  "id": "1310732",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/ISENIN"
+  },
+  "currentActiveAlias": "ISENIN"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1310737",
+  "createdAt": "2013-07-17T19:15:56Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Shop",
+  "key": "SHOP",
+  "id": "1310735",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/SHOP"
+  },
+  "currentActiveAlias": "SHOP"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1441794",
+  "createdAt": "2013-06-20T13:25:29Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "DIY Modular Power Solutions",
+  "key": "DMPS",
+  "id": "1441792",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/DMPS"
+  },
+  "currentActiveAlias": "DMPS"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1441797",
+  "createdAt": "2015-02-12T16:17:06Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "TTSH Addons",
+  "key": "TTSHADDONS",
+  "id": "1441795",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/TTSHADDONS"
+  },
+  "currentActiveAlias": "TTSHADDONS"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1441800",
+  "createdAt": "2020-04-15T17:32:49.201Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Xerxes",
+  "key": "XERXES",
+  "id": "1441798",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/XERXES"
+  },
+  "currentActiveAlias": "XERXES"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1441803",
+  "createdAt": "2018-09-17T06:26:14.598Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "LOGANSOLOMAN",
+  "key": "LOGSOL",
+  "id": "1441801",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/LOGSOL"
+  },
+  "currentActiveAlias": "LOGSOL"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1572866",
+  "createdAt": "2013-06-22T14:28:05Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Impressum - Info",
+  "key": "INFO",
+  "id": "1572864",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/INFO"
+  },
+  "currentActiveAlias": "INFO"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1703938",
+  "createdAt": "2023-03-02T06:24:57.582Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Out Board",
+  "key": "OUTBOARD",
+  "id": "1703936",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/OUTBOARD"
+  },
+  "currentActiveAlias": "OUTBOARD"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1703941",
+  "createdAt": "2017-10-03T19:05:39Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "DDRM Build Doc",
+  "key": "DDRM",
+  "id": "1703939",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/DDRM"
+  },
+  "currentActiveAlias": "DDRM"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": null,
+  "createdAt": "2018-05-17T07:35:26.606Z",
+  "icon": null,
+  "description": null,
+  "status": "archived",
+  "name": "SDIY KNOWHO",
+  "key": "SKM",
+  "id": "1703942",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/SKM"
+  },
+  "currentActiveAlias": "SKM"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "1703947",
+  "createdAt": "2013-06-22T14:03:13Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "DIY 5U Modular Synthesizer",
+  "key": "MAIN",
+  "id": "1703945",
+  "type": "global",
+  "_links": {
+   "webui": "/spaces/MAIN"
+  },
+  "currentActiveAlias": "MAIN"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "131498334",
+  "createdAt": "2024-08-29T13:49:50.843Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "Home",
+  "key": "Home",
+  "id": "131497988",
+  "type": "collaboration",
+  "_links": {
+   "webui": "/spaces/Home"
+  },
+  "currentActiveAlias": "Home"
+ },
+ {
+  "spaceOwnerId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "homepageId": "337641924",
+  "createdAt": "2025-02-03T15:34:58.922Z",
+  "icon": null,
+  "description": null,
+  "status": "current",
+  "name": "KNOWHOW",
+  "key": "KNOWHOW",
+  "id": "337641526",
+  "type": "knowledge_base",
+  "_links": {
+   "webui": "/spaces/KNOWHOW"
+  },
+  "currentActiveAlias": "KNOWHOW"
+ }
+]

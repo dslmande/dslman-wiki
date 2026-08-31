@@ -1,0 +1,45 @@
+---
+title: "Jomox XBASE 999 repair"
+space: "DIY Synth other"
+space_key: "DSO"
+type: page
+created: "2025-11-24T08:07:59"
+updated: "2025-11-24T08:10:01"
+confluence_id: "642678805"
+confluence_url: "https://diysynth.wiki.dsl-man.de/wiki/spaces/DSO/pages/642678805"
+attachments: 15
+---
+
+# Jomox XBASE 999 repair
+
+few potentiometers/encoder was replaced
+
+![C1E49B95-83C2-4BDB-922A-AFC4DD225731.jpg](assets/C1E49B95-83C2-4BDB-922A-AFC4DD225731.jpg)
+
+![78D4FC1B-1619-4883-BBFD-1CA242F65248.jpg](assets/78D4FC1B-1619-4883-BBFD-1CA242F65248.jpg)
+
+![7E451727-F7D8-41B6-B11A-2005B34F7482.jpg](assets/7E451727-F7D8-41B6-B11A-2005B34F7482.jpg)
+
+![1906AD02-0AFB-4FBB-A703-01258DC7536B.jpg](assets/1906AD02-0AFB-4FBB-A703-01258DC7536B.jpg)
+
+![466B3D1A-D362-4ED4-A5F1-29523A6D844F.jpg](assets/466B3D1A-D362-4ED4-A5F1-29523A6D844F.jpg)
+
+![IMG_6280.jpeg](assets/IMG_6280.jpeg)
+
+![IMG_6277.jpeg](assets/IMG_6277.jpeg)
+
+![69116817769__17F01D8F-47B9-4AEF-9280-BC2557C885FF.jpeg](assets/69116817769__17F01D8F-47B9-4AEF-9280-BC2557C885FF.jpeg)
+
+![IMG_6278.jpeg](assets/IMG_6278.jpeg)
+
+![IMG_6282.jpeg](assets/IMG_6282.jpeg)
+
+![IMG_6279.jpeg](assets/IMG_6279.jpeg)
+
+![69116884578__731C47C4-836B-43C5-9471-E2E0D44528E1.jpeg](assets/69116884578__731C47C4-836B-43C5-9471-E2E0D44528E1.jpeg)
+
+![IMG_6283.jpeg](assets/IMG_6283.jpeg)
+
+![IMG_6281.jpeg](assets/IMG_6281.jpeg)
+
+![69116883920__5746913B-AB78-4F7A-BDDB-ABE271B6E126.jpeg](assets/69116883920__5746913B-AB78-4F7A-BDDB-ABE271B6E126.jpeg)

@@ -1,0 +1,1046 @@
+[
+ {
+  "createdAt": "2014-07-23T09:41:20Z",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2016-12-22T12:34:15.000Z",
+   "ncsStepVersion": null
+  },
+  "id": "1147450",
+  "spaceId": "1146880",
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>check out the new groupbuy for TTSH kits/parts.</p><p><ac:link><ri:page ri:content-title=\"TTSH Kit Groupbuy\" /><ac:plain-text-link-body><![CDATA[TTSH Kit Groupbuy]]></ac:plain-text-link-body></ac:link></p><p>(not active for rev.3 TTSH)</p>"
+   }
+  },
+  "status": "current",
+  "title": "new TTSH groupbuy started",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1147450",
+   "webui": "/spaces/DSO/blog/2014/07/23/1147450/new+TTSH+groupbuy+started",
+   "edituiv2": "/spaces/DSO/blog/edit-v2/1147450",
+   "tinyui": "/x/OoIR"
+  },
+  "spaceKey": "DSO"
+ },
+ {
+  "createdAt": "2014-05-12T10:26:48Z",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-05-12T10:26:48.000Z",
+   "ncsStepVersion": null
+  },
+  "id": "1147499",
+  "spaceId": "1146880",
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>i&acute;m ready to start a second TTSH Parts/Fullkit Groupbuy..</p><p>links:</p><p><ac:link><ri:page ri:content-title=\"TTSH Sammelbestellung Preisinfo - german\" /><ac:plain-text-link-body><![CDATA[German Version]]></ac:plain-text-link-body></ac:link></p><p><ac:link><ri:page ri:content-title=\"TTSH Kit Groupbuy\" /><ac:plain-text-link-body><![CDATA[International Version ]]></ac:plain-text-link-body></ac:link></p>"
+   }
+  },
+  "status": "current",
+  "title": "Second TTSH Groupbuy in planning",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1147499",
+   "webui": "/spaces/DSO/blog/2014/05/12/1147499/Second+TTSH+Groupbuy+in+planning",
+   "edituiv2": "/spaces/DSO/blog/edit-v2/1147499",
+   "tinyui": "/x/a4IR"
+  },
+  "spaceKey": "DSO"
+ },
+ {
+  "createdAt": "2013-06-21T12:22:20Z",
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2013-06-21T12:22:20.000Z",
+   "ncsStepVersion": null
+  },
+  "id": "1442046",
+  "spaceId": "1441792",
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>my new Website starts here..</p><p>you can use the left navigation to find some articles</p>"
+   }
+  },
+  "status": "current",
+  "title": "here starts my new Website",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1442046",
+   "webui": "/spaces/DMPS/blog/2013/06/21/1442046/here+starts+my+new+Website",
+   "edituiv2": "/spaces/DMPS/blog/edit-v2/1442046",
+   "tinyui": "/x/-gAW"
+  },
+  "spaceKey": "DMPS"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2017-08-07T11:34:20Z",
+  "id": "1703964",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2017-08-07T11:34:55.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>the french Minimoog Clone Project starts...</p><p>more here:</p><p><ac:link><ri:page ri:content-title=\"MME Minimoog Clone guinguin\" ri:space-key=\"DSO\" /></ac:link></p><p><ac:image ac:height=\"150\"><ri:attachment ri:filename=\"image2017-8-7 13:34:5.png\" /></ac:image></p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "Minimoog Clone guinguin",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1703964",
+   "webui": "/spaces/MAIN/blog/2017/08/07/1703964/Minimoog+Clone+guinguin",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1703964",
+   "tinyui": "/x/HAAa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2017-08-29T15:02:04Z",
+  "id": "1703966",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2017-08-29T15:02:04.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p><strong><span lang=\"en\">After 7 years in DIY I have now founded my own company, called:</span></strong></p><p><strong><span lang=\"en\"><br /></span></strong></p><p><a href=\"https://www.DIYSYNTH.de\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.DIYSYNTH.de</a></p><p><a href=\"https://www.DIYSYNTH.de\"><ac:image><ri:attachment ri:filename=\"logo-200-180weiss.png\" /></ac:image></a></p><p>&nbsp;</p><p>At the moment is the Steffcorp 2600 VCO PCB and Panel available.</p><p>&nbsp;</p><p>We work on Modules from a friend called &quot;VDD&quot; -&nbsp;&nbsp; DIY kits, assembled Modules, both in Eurorack and 5U Format (MU and MOTM).</p><p>New Arp Synthesizer Clones and a new Syncussion clone from Germany are in the development and for sale here later too.</p><p>&nbsp;</p><p>Matched and rare parts are available, I still work hard to fill the shop with more parts every day.</p><p>please contact me if you want sell your own PCBs/Panels/Modules in my shop.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "Onlineshop online",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1703966",
+   "webui": "/spaces/MAIN/blog/2017/08/29/1703966/Onlineshop+online",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1703966",
+   "tinyui": "/x/HgAa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2018-05-03T19:59:35.469Z",
+  "id": "1705013",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-05-03T20:01:18.592Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>this Website Server was moved on 03.May 2018 to a newer Server and the Webapplication was updated to the latest stable Version.</p>"
+   }
+  },
+  "status": "current",
+  "title": "Server movement completed",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705013",
+   "webui": "/spaces/MAIN/blog/2018/05/03/1705013/Server+movement+completed",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705013",
+   "tinyui": "/x/NQQa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2019-05-09T17:50:27.786Z",
+  "id": "1705153",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2019-05-09T17:51:07.492Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>Logan Solomans ( Jim Soloman and Jamie Logan) Project <ac:link><ri:page ri:space-key=\"LOGSOL\" ri:content-title=\"David\" /><ac:plain-text-link-body><![CDATA[DAVID]]></ac:plain-text-link-body></ac:link> and ENIGMA - which are both great ARP2600 inspired synths are in build by me.</p><p>here few pictures of Davids &nbsp;VCF and the Powersupply (and few modules).</p><p>contact me if you want build this device too or in case you want an assembled device.</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"09C9FA46-A3CB-4B6A-9C20-33D7062CC7A7.jpg\" /></ac:image><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"ws2iPRh1QyyMS8DT5tP6Fw.jpg\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "May 2019 news",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705153",
+   "webui": "/spaces/MAIN/blog/2019/05/09/1705153/May+2019+news",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705153",
+   "tinyui": "/x/wQQa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2015-04-07T15:11:13Z",
+  "id": "1705238",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2015-07-22T16:02:03.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>i got my Minimoog cabinet back...</p><p>read more about my <ac:link><ri:page ri:content-title=\"Minimoog Restauration\" ri:space-key=\"DSO\" /></ac:link></p><p>&nbsp;</p><p><ac:image ac:width=\"800\"><ri:attachment ri:filename=\"20150713_220405.jpg\" /></ac:image></p><p><ac:image ac:width=\"800\"><ri:attachment ri:filename=\"IMG-20150403-WA0002.jpg\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "Minimoog Cabinet",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705238",
+   "webui": "/spaces/MAIN/blog/2015/04/07/1705238/Minimoog+Cabinet",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705238",
+   "tinyui": "/x/FgUa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2018-11-11T15:31:38.940Z",
+  "id": "1705268",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-11-11T15:31:38.940Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>I designed with the help of Simon Cox a PCB to fix the hum problem of the THC SY-1 Syncussion, which also helps in the SY-1M in case you have a coil hiss.</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3586.JPG\"><ri:page ri:space-key=\"DSO\" ri:content-title=\"Syncussion Power Modification\" /></ri:attachment></ac:image></p><p><br /></p><p>A Syncussion Dust Cover is available too, this fits for the SY-1 THC Version and SY-1M Version.</p><p>Futhermore my Webshop&nbsp;<a href=\"https://www.DIYSYNTH.de\">https://www.DIYSYNTH.de</a>&nbsp;is back, all new products are exclusively available there.</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"fullsizeoutput_5eb8.jpeg\" /></ac:image><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"fullsizeoutput_5eb7.jpeg\" /></ac:image><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"fullsizeoutput_5ebb.jpeg\" /></ac:image><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"fullsizeoutput_5eba.jpeg\" /></ac:image></p><p><br /></p>"
+   }
+  },
+  "status": "current",
+  "title": "November 2018 News",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705268",
+   "webui": "/spaces/MAIN/blog/2018/11/11/1705268/November+2018+News",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705268",
+   "tinyui": "/x/NAUa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2020-08-27T07:41:04.967Z",
+  "id": "1705304",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2020-08-27T07:41:04.967Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>I spend some time in development and testing of some products for my own projects and offer this yet in my shop on <a href=\"https://www.DIYsynth.de\">www.DIYsynth.de</a></p><p><br /></p><p>Bipolar Powersupply, perfect for Standalone devices like the TTSH</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_2730.jpg\" /></ac:image></p><p><br /></p><p>SSM2210 SSM2220 direct replacement:</p><p><br /></p><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3200.jpeg\" /></ac:image><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3199.jpeg\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "products in 2020",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705304",
+   "webui": "/spaces/MAIN/blog/2020/08/27/1705304/products+in+2020",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705304",
+   "tinyui": "/x/WAUa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2018-05-15T11:41:29.745Z",
+  "id": "1705386",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-05-15T11:41:29.745Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p><br /></p><h2><strong>New Projects in may 2018:</strong></h2><p><ac:link><ri:page ri:space-key=\"DSO\" ri:content-title=\"Syncussion SY-1M\" /></ac:link></p><p><br /></p><p><ac:link><ri:space ri:space-key=\"KIJIMI\" /><ac:plain-text-link-body><![CDATA[Kijimi ]]></ac:plain-text-link-body></ac:link></p><p><br /></p><p><ac:link><ri:page ri:space-key=\"DDRM\" ri:content-title=\"DDRM Home\" /><ac:plain-text-link-body><![CDATA[DDRM updated]]></ac:plain-text-link-body></ac:link></p><p><br /></p>"
+   }
+  },
+  "status": "current",
+  "title": "new Projects added and pages updated",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705386",
+   "webui": "/spaces/MAIN/blog/2018/05/15/1705386/new+Projects+added+and+pages+updated",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705386",
+   "tinyui": "/x/qgUa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2016-01-06T08:56:24Z",
+  "id": "1705565",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2016-01-27T11:15:09.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>copy from: <a href=\"http://thehumancomparator.net/\">http://thehumancomparator.net/</a></p><p>The last stock of the TTSH will be sold out on the 8th of January 2016. Once they're sold out the project will be discontinued. This to focus forward and aim to create new and exciting things in 2016!</p><p>i dont offer after this date groupbuys, parts, cases or TTSHs too.</p><p>&nbsp;</p><p><ac:structured-macro ac:name=\"widget\"><ac:parameter ac:name=\"height\">480</ac:parameter><ac:parameter ac:name=\"width\">600</ac:parameter><ac:parameter ac:name=\"url\"><ri:url ri:value=\"https://www.youtube.com/watch?v=hpqSfkvYpx8\" /></ac:parameter></ac:structured-macro></p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "TTSH discontinued around 08. January  2016",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705565",
+   "webui": "/spaces/MAIN/blog/2016/01/06/1705565/TTSH+discontinued+around+08.+January+2016",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705565",
+   "tinyui": "/x/XQYa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2018-07-17T09:10:38.899Z",
+  "id": "1705624",
+  "spaceId": "1703945",
+  "version": {
+   "number": 4,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-07-17T09:24:51.623Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<ac:layout><ac:layout-section ac:type=\"two_right_sidebar\"><ac:layout-cell><h2>Project summary:</h2><h3>whats happen:</h3><p><a href=\"http://www.psycox.co.uk\">Psycox</a> (Simon) offer a syncussion clone, the <strong>SY-1M</strong> with Midi and improved partslist, less THT Transistors (instead of the THC SY-1), less hum/noise from powersupply</p><p>project link:&nbsp; <ac:link><ri:page ri:space-key=\"DSO\" ri:content-title=\"Syncussion SY-1M\" /><ac:plain-text-link-body><![CDATA[https://www.dsl-man.de/display/DSO/Syncussion+SY-1M]]></ac:plain-text-link-body></ac:link></p><p><br /></p><p>furthermore the first <strong>syncussion clone SY-1</strong> is again available too for order from:</p><p><a href=\"https://shop.73-75.com/syncussion-sy-1-preorder\">https://shop.73-75.com/syncussion-sy-1-preorder</a></p><p><br /></p><p>a new project is coming soon, the clone/replica of the <strong>Elektor Vocoder</strong>:</p><p>project documentation:</p><p><ac:link><ri:page ri:space-key=\"DSO\" ri:content-title=\"Elektor Vocoder Clone\" /><ac:plain-text-link-body><![CDATA[https://www.dsl-man.de/display/DSO/Elektor+Vocoder+Clone]]></ac:plain-text-link-body></ac:link></p><p><br /></p><p>and a further new project: the Korg Minipops 7 clone,&nbsp; <strong>MiniMP7 and MP7</strong></p><p><ac:link><ri:page ri:space-key=\"DSO\" ri:content-title=\"Minipops MP7 clone\" /><ac:plain-text-link-body><![CDATA[https://www.dsl-man.de/display/DSO/Minipops+MP7+clone]]></ac:plain-text-link-body></ac:link></p><ac:structured-macro ac:name=\"info\" ac:schema-version=\"1\" ac:macro-id=\"55ede676-762e-460e-bc16-44ae17e955fc\"><ac:rich-text-body><p>copyright/IP info:&nbsp;&nbsp; i&acute;m not the resonsible person for the &quot;products&quot;, its just an documentation about this projects.</p></ac:rich-text-body></ac:structured-macro></ac:layout-cell><ac:layout-cell><p><br /></p><p><br /></p><p><ac:image ac:thumbnail=\"true\" ac:height=\"150\"><ri:attachment ri:filename=\"33790_minip7_v201_assy003_1.jpg\"><ri:page ri:space-key=\"DSO\" ri:content-title=\"Minipops MP7 clone\" /></ri:attachment></ac:image></p><p><ac:image ac:thumbnail=\"true\" ac:height=\"150\"><ri:attachment ri:filename=\"SY-1M.jpg\"><ri:page ri:space-key=\"DSO\" ri:content-title=\"Syncussion SY-1M\" /></ri:attachment></ac:image></p><p><ac:image ac:height=\"150\"><ri:attachment ri:filename=\"25312_img_0247_1.jpg\"><ri:page ri:space-key=\"DSO\" ri:content-title=\"Elektor Vocoder Clone\" /></ri:attachment></ac:image></p></ac:layout-cell></ac:layout-section></ac:layout>"
+   }
+  },
+  "status": "current",
+  "title": "Summer SDIY news",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705624",
+   "webui": "/spaces/MAIN/blog/2018/07/17/1705624/Summer+SDIY+news",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705624",
+   "tinyui": "/x/mAYa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2014-09-11T14:12:53Z",
+  "id": "1705686",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-09-11T14:12:53.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<h2>a friend of me &quot;Check-Mate&quot; starts here with new Spaces</h2><p><ac:link><ri:page ri:content-title=\"DIY Eurorack Home\" ri:space-key=\"CHECKMATE\" /></ac:link></p><p><ac:link><ri:page ri:content-title=\"Eurorack Shopping Tipps Home\" ri:space-key=\"EUROSHOPTIPPS\" /></ac:link></p><p>&nbsp;</p><p>happy soldering, check-mate</p>"
+   }
+  },
+  "status": "current",
+  "title": "new Eurorack DIY Space",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705686",
+   "webui": "/spaces/MAIN/blog/2014/09/11/1705686/new+Eurorack+DIY+Space",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705686",
+   "tinyui": "/x/1gYa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2014-03-18T11:07:18Z",
+  "id": "1705726",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-03-18T11:08:00.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p><strong>First TTSH finished on&nbsp; 14.03.2014 by me.</strong></p><p>check the building doc: <ac:link><ri:page ri:content-title=\"TTSH ARP 2600 Clone\" ri:space-key=\"DSO\" /></ac:link></p><p>Check main project website from me: <ac:link><ri:page ri:content-title=\"TTSH ARP 2600 Clone\" ri:space-key=\"DSO\" /></ac:link></p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"20140316_001329.jpg\" /></ac:image></p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "first TTSH Arp2600 Clone finished",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705726",
+   "webui": "/spaces/MAIN/blog/2014/03/18/1705726/first+TTSH+Arp2600+Clone+finished",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705726",
+   "tinyui": "/x/-gYa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2014-08-07T13:42:32Z",
+  "id": "1705742",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-08-07T13:42:32.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>to minimize man in the middle attacks,&nbsp; this website works with a signed SSL certificate.</p>"
+   }
+  },
+  "status": "current",
+  "title": "SSL Implentation in this Website yet",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705742",
+   "webui": "/spaces/MAIN/blog/2014/08/07/1705742/SSL+Implentation+in+this+Website+yet",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705742",
+   "tinyui": "/x/Dgca"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2016-07-26T12:37:50Z",
+  "id": "1705851",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2016-10-25T16:51:39.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>my 909 Clone &quot;Nava&quot; was successfull build,</p><p>check out my buildpage for more info</p><p><ac:link><ri:page ri:space-key=\"DSO\" ri:content-title=\"Nava TR-909 Clone\" /></ac:link></p><p>&nbsp;</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"FullSizeRender.jpg\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "Nava ready",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705851",
+   "webui": "/spaces/MAIN/blog/2016/07/26/1705851/Nava+ready",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705851",
+   "tinyui": "/x/ewca"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2014-01-15T15:58:48Z",
+  "id": "1705887",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-01-15T15:58:48.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><h2>Here are some nice external projects.</h2><p>&nbsp;</p><ul style=\"list-style-type: square;\"><li><a href=\"http://www.e-licktronic.com/en/content/25-yocto-tr808-clone-tr-808\">yocto - a wonderful 808 clone with sequencer&nbsp;</a><a href=\"http://www.e-licktronic.com/en/content/25-yocto-tr808-clone-tr-808\"> link</a></li><li><ac:link><ri:page ri:content-title=\"TTSH ARP 2600 Clone\" ri:space-key=\"DSO\" /><ac:plain-text-link-body><![CDATA[TTSH - a ARP2600 clone - supported here]]></ac:plain-text-link-body></ac:link></li><li><a href=\"http://www.fyrd-instruments.com/MTRX-8\">MTRX-8 - great DIY Sequencer</a></li><li><a href=\"http://midisizer.com/midialf/\">MidiALF - CV/MIDI Sequencer</a></li><li><a href=\"http://www.audiothingies.com/p6/\">P6 - a polyphon Synth like Ambika - cheap</a></li></ul>"
+   }
+  },
+  "status": "current",
+  "title": "2014 supported Projects",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1705887",
+   "webui": "/spaces/MAIN/blog/2014/01/15/1705887/2014+supported+Projects",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1705887",
+   "tinyui": "/x/nwca"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2014-11-26T15:36:11Z",
+  "id": "1706013",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-11-26T15:36:11.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>The second TTSH groubuy was closed mid of November 2014 for the TTSH rev.2&nbsp; Partkits, Fullkits, Cases</p>"
+   }
+  },
+  "status": "current",
+  "title": "Second TTSH groubuy closed",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706013",
+   "webui": "/spaces/MAIN/blog/2014/11/26/1706013/Second+TTSH+groubuy+closed",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706013",
+   "tinyui": "/x/HQga"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2017-01-09T11:42:42Z",
+  "id": "1706033",
+  "spaceId": "1703945",
+  "version": {
+   "number": 3,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2017-10-05T12:19:42.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>my both sequencer, feel free to ask if you&acute;re interested in.</p><p>project link: <ac:link><ri:page ri:space-key=\"TTSHADDONS\" ri:content-title=\"Arp1601\" /><ac:plain-text-link-body><![CDATA[Arp1601 clone documentation]]></ac:plain-text-link-body></ac:link></p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3824.JPG\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "Custom Arp1601 Sequencer clone",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706033",
+   "webui": "/spaces/MAIN/blog/2017/01/09/1706033/Custom+Arp1601+Sequencer+clone",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706033",
+   "tinyui": "/x/MQga"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2016-10-20T14:33:48Z",
+  "id": "1706037",
+  "spaceId": "1703945",
+  "version": {
+   "number": 3,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2017-04-26T08:56:58.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>after 2 years my own TTSH is ready.</p><p>Internal 230V&nbsp; linear powersupply, gatebooster, AR Mod, black frontpanel from rev.1,</p><p>some minor mods for better stability, isolated reverb tank,</p><p>multiturn trimmer for VCO V/Oct.</p><p>(nuts and washers not mounted yet due calibration)</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3370.JPG\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "my own TTSH",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706037",
+   "webui": "/spaces/MAIN/blog/2016/10/20/1706037/my+own+TTSH",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706037",
+   "tinyui": "/x/NQga"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2016-12-22T12:37:37Z",
+  "id": "1706063",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2017-03-15T09:19:20.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>my rev.3 TTSH build starts..</p><p>please take a look here <span class=\"confluence-link\"><ac:link><ri:page ri:space-key=\"TTSH\" ri:content-title=\"TTSH Release rev.3\" /><ac:plain-text-link-body><![CDATA[TTSH rev3 buidling guide]]></ac:plain-text-link-body></ac:link></span></p><p>the Powersupply is external in rev.3</p><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:url ri:value=\"https://www.dsl-man.de/download/thumbnails/19890380/PSU_rev3.jpg?version=1&amp;modificationDate=1482398342121\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "TTSH rev3 buildguide",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706063",
+   "webui": "/spaces/MAIN/blog/2016/12/22/1706063/TTSH+rev3+buildguide",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706063",
+   "tinyui": "/x/Twga"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2016-04-22T08:50:46Z",
+  "id": "1706097",
+  "spaceId": "1703945",
+  "version": {
+   "number": 3,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2016-04-22T09:06:30.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>I finished last week the WASP Clone &quot;Jasper&quot;</p><p>The pcb and panel is available from <a href=\"https://www.muffwiggler.com/forum/viewtopic.php?t=151625\">https://www.muffwiggler.com/forum/viewtopic.php?t=151625</a></p><p>The Jasper sounds very good, with nice functions like VCO Mixer, addional waveform (enhanced pcb)</p><p>total costs are around 300&euro; (depends on your electronic parts seller for sockets, ICs)</p><p>&nbsp;</p><p>my build docu page:</p><p><ac:link><ri:page ri:content-title=\"Jasper Wasp Clone\" ri:space-key=\"DSO\" /></ac:link></p><p>&nbsp;</p><p><ac:image ac:width=\"700\"><ri:attachment ri:filename=\"IMG_1822.JPG\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "Jasper Wasp Clone build",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706097",
+   "webui": "/spaces/MAIN/blog/2016/04/22/1706097/Jasper+Wasp+Clone+build",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706097",
+   "tinyui": "/x/cQga"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2015-02-03T11:00:56Z",
+  "id": "1706159",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2015-02-03T11:00:56.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>a TTSH rev.2 with StudioCase and Tolex.</p><p>Gatebooster Option&nbsp; too.</p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"20150131_164520.jpg\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "TTSH rev.2 finished",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706159",
+   "webui": "/spaces/MAIN/blog/2015/02/03/1706159/TTSH+rev.2+finished",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706159",
+   "tinyui": "/x/rwga"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2013-12-20T07:52:37Z",
+  "id": "1706445",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2014-01-09T15:03:13.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<h3><span><span style=\"color: rgb(255,102,0);font-family: Arial Unicode MS;font-size: medium;\"><strong><span style=\"color: rgb(0,51,102);\">Welcome in 2014 with best wishes</span><br /></strong></span></span></h3>"
+   }
+  },
+  "status": "current",
+  "title": "New Year greetings",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706445",
+   "webui": "/spaces/MAIN/blog/2013/12/20/1706445/New+Year+greetings",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706445",
+   "tinyui": "/x/zQka"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2013-12-16T12:51:11Z",
+  "id": "1706461",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2013-12-16T12:51:11.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>New halfmodular System is comming soon:</p><p>&nbsp;</p><p><a href=\"http://blog.stornsystem.com/\">http://blog.stornsystem.com/</a></p>"
+   }
+  },
+  "status": "current",
+  "title": "New Blog Post 16.12.2013",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706461",
+   "webui": "/spaces/MAIN/blog/2013/12/16/1706461/New+Blog+Post+16.12.2013",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706461",
+   "tinyui": "/x/3Qka"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2017-10-05T09:03:11Z",
+  "id": "1706497",
+  "spaceId": "1703945",
+  "version": {
+   "number": 4,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-04-25T11:58:27.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>VDD released his first&nbsp; Eurorack Module, a DUAL SYMMETRIC Output Module on <a href=\"https://www.DIYSYNTH.de\">https://www.DIYSYNTH.de</a></p><p>It&acute;s available as DIY KIT,&nbsp; assembled Module,&nbsp; DIY-PCB only Version.</p><p>more here: <ac:link><ri:page ri:space-key=\"CHECKMATE\" ri:content-title=\"VDD 5002-01 DUAL SYMMETRIC OUTPUT Module\" /></ac:link></p><p>due to my side business closure, the pcb/panel /kit is only avaiable on request by <ac:link><ri:page ri:space-key=\"INFO\" ri:content-title=\"Impressum\" /><ac:plain-text-link-body><![CDATA[email]]></ac:plain-text-link-body></ac:link>.</p><p>&nbsp;</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_57581.JPG\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "first VDD Module on DIYSYNTH.de",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706497",
+   "webui": "/spaces/MAIN/blog/2017/10/05/1706497/first+VDD+Module+on+DIYSYNTH.de",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706497",
+   "tinyui": "/x/AQoa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2017-04-26T08:52:03Z",
+  "id": "1706506",
+  "spaceId": "1703945",
+  "version": {
+   "number": 4,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2017-06-14T06:27:51.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>for sale is a new TTSH rev.3</p><p>a integrated&nbsp; Gatebooster, Reverbtank, AR-mod for better Attack control,</p><p>all known issues fixed.</p><p>&nbsp;</p><p>contact: Patrick at DSL-man.de</p><p>&nbsp;</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"TTSH_rev3_sale.JPG\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "TTSH rev.3 for sale",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706506",
+   "webui": "/spaces/MAIN/blog/2017/04/26/1706506/TTSH+rev.3+for+sale",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706506",
+   "tinyui": "/x/Cgoa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2018-01-15T09:36:00Z",
+  "id": "1706578",
+  "spaceId": "1703945",
+  "version": {
+   "number": 2,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-04-25T11:55:37.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p><s>The new rev.5 Arp1601 Sequencer is available in my store:</s></p><p><s><a href=\"https://www.diysynth.de/pcbs-panels/arp1601-pcb-panel-boat-holzseitenteile.html\">https://www.diysynth.de/pcbs-panels/arp1601-pcb-panel-boat-holzseitenteile.html</a></s></p><p>sold out 04/2018</p><p>&nbsp;</p><p>i updated the BOM and buildguide: <ac:link><ri:page ri:space-key=\"TTSHADDONS\" ri:content-title=\"Arp1601\" /></ac:link></p><p><ac:image ac:height=\"400\"><ri:attachment ri:filename=\"1601_ttsh.jpg\" /></ac:image></p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "Arp 1601 Clone Sequencer PCB-Panel-Boat",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706578",
+   "webui": "/spaces/MAIN/blog/2018/01/15/1706578/Arp+1601+Clone+Sequencer+PCB-Panel-Boat",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706578",
+   "tinyui": "/x/Ugoa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2016-01-27T11:13:55Z",
+  "id": "1706681",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2016-01-27T11:13:55.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>i received a lot of <strong>old stock</strong> Juergen Haible pcbs,</p><p>its planned to build 2x Frequency Shifter in 2U 19&quot; rack with indcluded 2 LFOs for modulation <ac:link><ri:page ri:content-title=\"J&uuml;rgen Haible FS1a Frequency Shifter\" ri:space-key=\"DSO\" /><ac:plain-text-link-body><![CDATA[like my first build]]></ac:plain-text-link-body></ac:link>.</p><p>Further its planned 2x Triple Chorus in 1U 19&quot; Rack or as desktop case <ac:link><ri:blog-post ri:content-title=\"J.Haible Krautrock Phaser standalone\" ri:posting-day=\"2015/10/01\" /><ac:plain-text-link-body><![CDATA[like my Haible Krautrockphaser]]></ac:plain-text-link-body></ac:link>.</p><p>I left a old stock Tau Pipe Phaser pcb too, its possible to add this in a 19&quot; 1U Case with the great Triple Chorus too.</p><p><ac:link><ri:space ri:space-key=\"INFO\" /><ac:plain-text-link-body><![CDATA[feel free to contact me]]></ac:plain-text-link-body></ac:link></p><p>&nbsp;</p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"IMG_1084.JPG\" /></ac:image></p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "Juergen Haible pcbs received",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706681",
+   "webui": "/spaces/MAIN/blog/2016/01/27/1706681/Juergen+Haible+pcbs+received",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706681",
+   "tinyui": "/x/uQoa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2015-10-16T07:43:04Z",
+  "id": "1706837",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2015-10-16T07:43:04.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>a Eurorack Klee Sequencer was born...</p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"FullSizeRender.jpg\" /></ac:image></p><p>&nbsp;</p><p>more Infos:<ac:link><ri:page ri:content-title=\"Eurorack Klee Sequencer\" /><ac:plain-text-link-body><![CDATA[ Eurorack Klee Sequencer]]></ac:plain-text-link-body></ac:link></p>"
+   }
+  },
+  "status": "current",
+  "title": "Eurorack Klee Sequencer",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706837",
+   "webui": "/spaces/MAIN/blog/2015/10/16/1706837/Eurorack+Klee+Sequencer",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706837",
+   "tinyui": "/x/VQsa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2018-04-25T12:11:45Z",
+  "id": "1706985",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2018-04-25T12:11:45.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>&nbsp;</p><p>Dear DIY Friends,</p><p>&nbsp;</p><p>due to private situations i closed my webshop DIYSYNTH.de on 23 April 2018.</p><p>If everything works well, i&acute;m back with a DIY store at least in the year 2020.</p><p>The website is sponsored for one year by the best synthesizer case carpenter <strong><a href=\"https://www.lamonddesign.co.uk/\">Ross Lamond</a></strong></p><p>and another year by &quot;<strong>The Black Company</strong>&quot; known as Roman.F or from the <strong><a href=\"http://www.deckardsdream.com/\">DDRM Synthesizer</a></strong> .</p><p>(there are more details in a muffwiggler thread)</p><p>I&acute;m still active with SDIY support here and plan to update this big website application server in next weeks.</p><p>In last month we worked hard (Jammie Logan (JMLS))on a new Arp4012 Filter in MOTM format</p><p>This module is avaiable in few weeks by JMLS.</p><p>Another Module was designed by VDD (a new german EE) and me, its a MOTM Module - 14channel (2x7 or 14channels) Active Splitter and 14channel buffered multiple (2x7ch or 14ch)</p><p>Its avaiable very soon on different resellers.</p><p>or drop me an email.</p><p>&nbsp;</p><p>best regards</p><p>Patrick</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "General Info about this website and webshop",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706985",
+   "webui": "/spaces/MAIN/blog/2018/04/25/1706985/General+Info+about+this+website+and+webshop",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706985",
+   "tinyui": "/x/6Qsa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2015-02-11T15:39:41Z",
+  "id": "1706989",
+  "spaceId": "1703945",
+  "version": {
+   "number": 1,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2015-02-11T15:39:41.000Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p><strong>Roadcase for rev.2 and rev1. TTSH</strong></p><p>more Infos here: <ac:link><ri:page ri:content-title=\"TTSH Case\" ri:space-key=\"TTSH\" /></ac:link></p><p>&nbsp;</p><p>&nbsp;</p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"20150208_221410.jpg\" /></ac:image></p><p>&nbsp;</p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"20150210_000538.jpg\" /></ac:image></p><p>&nbsp;</p><p>&nbsp;</p>"
+   }
+  },
+  "status": "current",
+  "title": "TTSH rev.2 Roadcase",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1706989",
+   "webui": "/spaces/MAIN/blog/2015/02/11/1706989/TTSH+rev.2+Roadcase",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1706989",
+   "tinyui": "/x/7Qsa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2019-03-01T16:35:10.723Z",
+  "id": "1707029",
+  "spaceId": "1703945",
+  "version": {
+   "number": 4,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2019-04-10T14:07:45.765Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p><br /></p><p>the winter season was again overloaded with a lot of projects.</p><p>I built some custom modules in MU and MOTM format - Triple Chorus in MU Format (still some available) and some Tau Pipe Phaser (available too)</p><p>, Haible Krautrock Phaser in a nice desktop case with 230V AC - i ordered today new cases and offer this for sale.</p><p><ac:image ac:thumbnail=\"true\" ac:height=\"150\"><ri:attachment ri:filename=\"A9935C51-7111-4EAB-A0A8-249A953A93D9.jpg\" /></ac:image></p><p><ac:image ac:thumbnail=\"true\" ac:height=\"150\"><ri:attachment ri:filename=\"IMG_4626.jpg\" /></ac:image></p><p><br /></p><p><strong>furthermore</strong> i designed few pcbs which are commercial available on diysynth.de</p><p>this tiny pcb helps to connect &nbsp;MU and MOTM pcbs or to use 5u module pcbs in standalone cases.</p><p><ac:image ac:thumbnail=\"true\" ac:height=\"150\"><ri:attachment ri:filename=\"IMG_5268.jpg\" /></ac:image></p><p><br /></p><p>and for my side job as free author:</p><p><strong>amazona articles:</strong></p><p><a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjHv82IruHgAhVHIlAKHUPrBh0QFjAAegQICRAB&amp;url=https%3A%2F%2Fwww.amazona.de%2Ftest-din-sync-re-303-die-beste-tb-303-ever%2F&amp;usg=AOvVaw2JNTNLLYZjkDCeidho4rfW\">Test: Din Sync RE-303, die beste TB-303 ever! - AMAZONA.dehttps://www.amazona.de/test-din-sync-re-303-die-beste-tb-303-ever/</a></p><p><a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjU-qWVruHgAhWCmbQKHZA9CpMQFjAAegQIChAB&amp;url=https%3A%2F%2Fwww.amazona.de%2Ftest-mfb-tanzbaer-2%2F&amp;usg=AOvVaw3IzYRJur4HT7A4WVU_m-zd\">Test: MFB Tanzb&auml;r 2, Drummaschine - AMAZONA.dehttps://www.amazona.de/test-mfb-tanzbaer-2/</a></p><p><br /></p><p><br /></p><p><strong>the most important project is ENIGMA &nbsp;- a new 2600 inspired synth, I'm involved as a consultant and helps to build prototypes etc.</strong></p><p><strong>link : &nbsp;<ac:link><ri:page ri:space-key=\"LOGSOL\" ri:content-title=\"ENIGMA - the best 2600 in DIY\" /></ac:link></strong></p><p><strong><br /></strong></p><p><strong>i have a lot of stuff for sale:</strong></p><p><strong>&nbsp;many MOTM Modules, Jasper wasp clone - contact me in case you are looking for this.</strong></p><p><strong><br /></strong></p>"
+   }
+  },
+  "status": "current",
+  "title": "March 2019 news",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1707029",
+   "webui": "/spaces/MAIN/blog/2019/03/01/1707029/March+2019+news",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1707029",
+   "tinyui": "/x/FQwa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2019-12-23T22:39:44.723Z",
+  "id": "1707039",
+  "spaceId": "1703945",
+  "version": {
+   "number": 4,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2019-12-23T22:39:44.723Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>Most DIY Projects was delayed or not finished..</p><ul><li>ENIGMA was announced (Arp2600 inspired synth) - still in progress</li><li>DAVID half of the system is done -still in progress</li><li>TTSH v4 was released&nbsp;</li><li>RSF KOBOL Clone 9month delayed (have to complete mine)</li><li>Kijimi was released by Black Corp (with few month delay)</li><li>2019 run of Cloney VCS3 clone with 6month delay (last parts was sent to users in december19)</li><li>RE-606 by Paul Barker was released</li><li>Jan Martin Koehler released his PLAITS in MU and MOTM format (DIY and assembled)</li></ul><p>I made in the meantime some MU Format modules.. and still offer this for sale in 2020&nbsp;<ac:link><ri:page ri:content-title=\"MOTM 300 VCO\" /><ac:plain-text-link-body><![CDATA[MOTM300 in MU Format]]></ac:plain-text-link-body></ac:link></p><p>Haible Triple Chorus and Haible Tau Pipe Phaser&nbsp;and 2 own new cases &nbsp;- this cases types are planned to sell in 2020&nbsp;</p><p>furthermore i renovated my basement, in a separate room is my DIY LAB yet and the studio was upgraded with some new gear.</p><p>I installed in my X32 Mixer a MADI card which is connected to the new RME fireface UFX+, all audio paths run thru 3 patchbays.</p><p>in December was the iConnectivity mioXL installed, which offer 10USB hosts and up to 12 MIDI DIN i/o connections. (click to enlarge)</p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"J7aLXYI1RLa4qs%qmp3PuQ.jpg\" /></ac:image>&nbsp;&nbsp;<ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_9046.jpeg\" /></ac:image>&nbsp;<ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_9044.jpeg\" /></ac:image>&nbsp;<ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_9045.jpeg\" /></ac:image></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>"
+   }
+  },
+  "status": "current",
+  "title": "2019 summary",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1707039",
+   "webui": "/spaces/MAIN/blog/2019/12/23/1707039/2019+summary",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1707039",
+   "tinyui": "/x/Hwwa"
+  },
+  "spaceKey": "MAIN"
+ },
+ {
+  "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+  "createdAt": "2015-10-01T13:03:33Z",
+  "id": "1707116",
+  "spaceId": "1703945",
+  "version": {
+   "number": 3,
+   "message": "",
+   "minorEdit": false,
+   "authorId": "557058:0b0be908-c3a3-4404-b880-01d147b017f5",
+   "createdAt": "2023-03-29T12:36:18.446Z",
+   "ncsStepVersion": null
+  },
+  "body": {
+   "storage": {
+    "representation": "storage",
+    "value": "<p>A Juergen Haible Krautrock Phaser (Schulte compact phasing A clone) was born as standalone Device.</p><p>more Infos here:</p><p><ac:link><ri:page ri:content-title=\"Juergen Haible Krautrockphaser in MOTM\" /></ac:link></p><p><br /></p><p><br /></p><p><strong>Additional Mods in some of my Krautrock Phaser:</strong></p><p>CV MOD: (this PCB was tested and works) let me know if you want a pcb.</p><p><ac:link><ri:attachment ri:filename=\"jh_krautrock_cv_input_mod_v2_630.png.pdf\" /></ac:link></p><p><br /></p><p><strong>Schemata:</strong></p><p>&nbsp;<ac:link><ri:attachment ri:filename=\"Bildschirmfoto 2023-03-29 um 14.32.41.png\" /></ac:link></p><p>D3 isnt needed from my POV.</p><p>if you still have a -15/15V source (from Krautrock PCB) you dont need to install the extra C1,C2,C5,C6 (2.2uF-10uF for example)</p><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3757.jpeg\" /></ac:image>&nbsp;&nbsp;<ac:image ac:height=\"250\"><ri:attachment ri:filename=\"Bildschirmfoto 2021-04-21 um 17.11.39.png\" /></ac:image>&nbsp;</p><p><br /></p><p><br /></p><p><br /></p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3755.jpeg\" /></ac:image><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"IMG_3756.jpeg\" /></ac:image></p><p><br /></p><p><ac:image ac:width=\"500\"><ri:attachment ri:filename=\"IMG_0194.JPG\" /></ac:image></p>"
+   }
+  },
+  "status": "current",
+  "title": "J.Haible Krautrock Phaser standalone",
+  "_links": {
+   "editui": "/pages/resumedraft.action?draftId=1707116",
+   "webui": "/spaces/MAIN/blog/2015/10/01/1707116/J.Haible+Krautrock+Phaser+standalone",
+   "edituiv2": "/spaces/MAIN/blog/edit-v2/1707116",
+   "tinyui": "/x/bAwa"
+  },
+  "spaceKey": "MAIN"
+ }
+]
