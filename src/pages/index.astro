@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { getSpaces, getPages } from '../lib/wiki.js';
+
+const spaces = await getSpaces();
+const pages = await getPages();
+const recent = pages
+  .filter((p) => p.entry.data.updated)
+  .sort((a, b) => b.entry.data.updated.localeCompare(a.entry.data.updated))
+  .slice(0, 8);
+---
+<Base
+  title={null}
+  description="Dokumentation zu DIY-Synthesizern: Bauanleitungen, Frontplatten, Schaltpläne und Projektnotizen."
+>
+  <div class="shell">
+    <main>
+      <div class="prose">
+        <h1>DIY Synth Documentation</h1>
+        <p>
+          Bauanleitungen, Schaltpläne, Frontplatten und Projektnotizen rund um
+          selbstgebaute Synthesizer – {pages.length} Seiten in {spaces.length} Bereichen.
+        </p>
+      </div>
+
+      <ul class="cards">
+        {spaces.map((space) => (
+          <li>
+            <a class="card" href={space.url}>
+              <div class="c-title">{space.name}</div>
+              <div class="c-meta">{space.count} {space.count === 1 ? 'Seite' : 'Seiten'}</div>
+            </a>
+          </li>
+        ))}
+      </ul>
+
+      <h2 class="section-title">Zuletzt geändert</h2>
+      <ul class="cards">
+        {recent.map((page) => (
+          <li>
+            <a class="card" href={page.url}>
+              <div class="c-title">{page.title}</div>
+              <div class="c-meta">
+                {page.entry.data.space} · {page.entry.data.updated?.slice(0, 10)}
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </main>
+  </div>
+</Base>

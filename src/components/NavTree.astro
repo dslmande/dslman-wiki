@@ -1,0 +1,13 @@
+---
+const { nodes, current } = Astro.props;
+---
+<ul>
+  {nodes.map((node) => (
+    <li>
+      <a href={node.page.url} aria-current={node.page.url === current ? 'page' : undefined}>
+        {node.page.title}
+      </a>
+      {node.children.length > 0 && <Astro.self nodes={node.children} current={current} />}
+    </li>
+  ))}
+</ul>

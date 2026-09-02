@@ -1,0 +1,14 @@
+---
+const { trail } = Astro.props;
+---
+<nav class="breadcrumbs" aria-label="Pfad">
+  <a href="/">Start</a>
+  {trail.map((page, i) => (
+    <>
+      <span>/</span>
+      {i === trail.length - 1
+        ? <span aria-current="page">{page.title}</span>
+        : <a href={page.url}>{page.title}</a>}
+    </>
+  ))}
+</nav>

@@ -1,0 +1,86 @@
+---
+// Volltextsuche über einen JSON-Index, der beim Build entsteht
+// (src/pages/search-index.json.js). Der Index wird erst beim ersten Tastendruck
+// geladen, kostet die Seite also nichts.
+---
+<div class="search-box">
+  <input
+    type="search"
+    id="q"
+    placeholder="Suchen …"
+    autocomplete="off"
+    aria-label="Wiki durchsuchen"
+    aria-controls="search-results"
+  />
+  <div class="search-results" id="search-results" role="listbox"></div>
+</div>
+
+<script>
+  const input = document.getElementById('q');
+  const out = document.getElementById('search-results');
+  let index = null;
+  let loading = null;
+
+  const load = () => (loading ??= fetch('/search-index.json')
+    .then((r) => r.json())
+    .then((data) => (index = data)));
+
+  const escape = (s) =>
+    s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+  function score(page, terms) {
+    const title = page.t.toLowerCase();
+    const body = page.b;
+    let total = 0;
+    for (const term of terms) {
+      if (title === term) total += 120;
+      else if (title.startsWith(term)) total += 60;
+      else if (title.includes(term)) total += 40;
+      else if (body.includes(term)) total += 8;
+      else return 0;
+    }
+    return total;
+  }
+
+  function snippet(page, term) {
+    const at = page.b.indexOf(term);
+    if (at < 0) return page.s;
+    const from = Math.max(0, at - 40);
+    return (from ? '…' : '') + page.b.slice(from, from + 120).trim() + '…';
+  }
+
+  async function run() {
+    const query = input.value.trim().toLowerCase();
+    if (query.length < 2) return (out.innerHTML = '');
+    await load();
+    const terms = query.split(/\s+/);
+    const hits = index
+      .map((page) => ({ page, rank: score(page, terms) }))
+      .filter((h) => h.rank > 0)
+      .sort((a, b) => b.rank - a.rank)
+      .slice(0, 12);
+
+    out.innerHTML = hits.length
+      ? hits
+          .map(
+            ({ page }) => `<a href="${page.u}" role="option">
+              <div class="r-title">${escape(page.t)}</div>
+              <div class="r-space">${escape(page.p)} · ${escape(snippet(page, terms[0]))}</div>
+            </a>`)
+          .join('')
+      : '<div class="r-empty">Nichts gefunden.</div>';
+  }
+
+  input.addEventListener('input', run);
+  input.addEventListener('focus', load);
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { input.value = ''; out.innerHTML = ''; input.blur(); }
+    if (e.key === 'Enter') out.querySelector('a')?.click();
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.search-box')) out.innerHTML = '';
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === '/' && document.activeElement !== input) { e.preventDefault(); input.focus(); }
+  });
+</script>

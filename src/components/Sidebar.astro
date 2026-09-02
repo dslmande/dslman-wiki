@@ -1,0 +1,19 @@
+---
+import NavTree from './NavTree.astro';
+import { getSpaceTree, getSpaces } from '../lib/wiki.js';
+
+const { spaceSlug, current } = Astro.props;
+const spaces = await getSpaces();
+const space = spaces.find((s) => s.slug === spaceSlug);
+const tree = await getSpaceTree(spaceSlug);
+---
+<details class="sidebar">
+  <summary>{space?.name ?? 'Navigation'}</summary>
+  <div>
+    <a class="sidebar-space" href={`/${spaceSlug}/`} aria-current={current === `/${spaceSlug}/` ? 'page' : undefined}>
+      {space?.name ?? spaceSlug}
+    </a>
+    <NavTree nodes={tree} current={current} />
+    <p><a class="back" href="/">← Alle Bereiche</a></p>
+  </div>
+</details>

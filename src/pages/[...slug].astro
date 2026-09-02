@@ -1,0 +1,56 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Sidebar from '../components/Sidebar.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { getPages, getTrail, getChildren } from '../lib/wiki.js';
+
+export async function getStaticPaths() {
+  const pages = await getPages();
+  return pages.map((page) => ({
+    params: { slug: page.path || undefined },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page.entry);
+const trail = await getTrail(page);
+const children = await getChildren(page);
+const data = page.entry.data;
+---
+<Base title={page.title} description={`${data.space ?? ''} – ${page.title}`}>
+  <div class="shell">
+    <Sidebar spaceSlug={page.spaceSlug} current={page.url} />
+    <main>
+      <Breadcrumbs trail={trail} />
+      <article class="prose">
+        <Content />
+      </article>
+
+      {children.length > 0 && (
+        <>
+          <h2 class="section-title">Unterseiten</h2>
+          <ul class="cards">
+            {children.map((child) => (
+              <li>
+                <a class="card" href={child.url}>
+                  <div class="c-title">{child.title}</div>
+                  {child.entry.data.attachments && (
+                    <div class="c-meta">{child.entry.data.attachments} Dateien</div>
+                  )}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      <div class="page-meta">
+        {data.updated && <span>Zuletzt geändert: {data.updated.slice(0, 10)}</span>}
+        {data.attachments && <span>{data.attachments} Anhänge</span>}
+        {data.confluence_url && <a href={data.confluence_url}>Originalseite im alten Wiki</a>}
+      </div>
+    </main>
+  </div>
+</Base>

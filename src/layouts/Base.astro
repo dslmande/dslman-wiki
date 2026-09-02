@@ -1,0 +1,50 @@
+---
+import '../styles/global.css';
+import Search from '../components/Search.astro';
+
+const { title, description } = Astro.props;
+const fullTitle = title ? `${title} · DSL-man` : 'DSL-man · DIY Synth Wiki';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🎛️</text></svg>" />
+    <script is:inline>
+      // Theme vor dem ersten Malen setzen, damit es nicht flackert
+      try {
+        const saved = localStorage.getItem('theme');
+        if (saved) document.documentElement.dataset.theme = saved;
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">DSL<span>-</span>man</a>
+      <div class="header-spacer"></div>
+      <Search />
+      <button class="icon-button" id="theme-toggle" title="Hell / dunkel umschalten" aria-label="Hell / dunkel umschalten">◐</button>
+    </header>
+
+    <slot />
+
+    <footer class="site-footer">
+      DIY Synth Documentation · <a href="/impressum-info/">Impressum</a>
+    </footer>
+
+    <script is:inline>
+      document.getElementById('theme-toggle').addEventListener('click', () => {
+        const root = document.documentElement;
+        const dark = root.dataset.theme
+          ? root.dataset.theme === 'dark'
+          : matchMedia('(prefers-color-scheme: dark)').matches;
+        root.dataset.theme = dark ? 'light' : 'dark';
+        try { localStorage.setItem('theme', root.dataset.theme); } catch (e) {}
+      });
+    </script>
+  </body>
+</html>
