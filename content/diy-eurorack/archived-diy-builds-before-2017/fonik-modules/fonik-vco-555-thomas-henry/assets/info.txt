@@ -1,0 +1,17 @@
+BUILDING NOTES
+
+1)
+in the original schematic of the VCO frmo thomas henry we three times a resistor R26, whereas R25 is missing completely.
+so here are the values corresponding to the PCB labeling that are not covered correctly by the schematic/parts list:
+R25 - 300k
+R26 - 39k
+R55 - 5.6k
+
+2)
+when powering from 12V lower R27 to 33k (otherwise you will not be able to get a decent level for your sine wave)
+
+3)
+when you have a hard time finding a precision trimmer wit 25k, just use 50k. does the job as well.
+
+4)
+C4 is the timing cap. use a nice C0G/NP0 or a mica for better stability.

@@ -1,0 +1,308 @@
+<html><head>
+        <meta name="keywords" content="electronic music synthesizer schematics pc layout">
+        <meta name="description" content="Complete instructions for building an electronic music synthesizer.">
+        <meta name="author" content="Raymond J. Wilson">
+        <style type="text/css">
+BODY {font-family:Verdana;font-size:9pt;}
+P {font-family:Verdana;font-size:9pt;}
+LI {font-family:Verdana;font-size:9pt;}
+TD {font-family:Verdana;font-size:9pt;}
+TH{font-family:Verdana;font-weight:bold;font-size:9pt;}
+FORM {padding:0px;margin:0px;}
+</style></head>
+    <body>
+        <center>
+            <table border="0" cellpadding="4" width="640">
+                <tbody><tr>
+                    <td>
+                        <h2>ADSR Envelope Generator (+/-12V or +/-15V)</h2>
+                        <h5>Article by Ray Wilson</h5>
+                        <font size="2"><a href="http://www.musicfromouterspace.com/analogsynth.php?page=ANALOG" title="Back to Music From Outer Space Analog Synth Pages">
+                                Back to "Music From Outer Space" Analog Synth Pages</a></font><p>
+                        </p><p>
+                            <table id="Table8" border="0" cellpadding="4" width="800">
+                                <tbody><tr>
+                                    <td valign="top">
+                                        <h4>Features</h4>
+                                        <ul>
+                                            <li>1 mS to 20 second Attack, Decay, and Release times.
+                                            </li><li>Classic ADSR envelope shape and functionality.
+                                            </li><li>Gate and trigger inputs permit retrigger after Attack complete.
+                                            </li><li>Comparators on gate and trigger inputs.
+                                            </li><li>Power Supply Range +/-9V up to +/-15V
+                                        </li></ul>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            </p><h3>Introduction</h3>
+                            <font size="2">
+                            Envelope generators provide a source of voltage that is shaped like a
+                            common amplitude envelope. The gate input is used to initiate the 
+                            ADSR envelope. The following assumes the gate is maintained throughout the
+                            attack, decay and sustain cycles.
+                            The voltage envelope rises from 0V to 10 volts during the attack cycle at the
+                            rate set by the Attack control. At the peak of the attack cycle (10 volts) the
+                            decay cycle is entered. The voltage decays to the sustain level (0 to 10 volts
+                            dependant on the setting of the Sustain control) at the rate determined by 
+                            the Decay control. When the gate is released the release cycle is entered and
+                            the voltage decays to 0 at the rate determined by the Release control setting.
+                            If the gate is removed at any time during the A,D or S cycle the release state
+                            is immediately entered. The trigger input used alone can initiate an attack 
+                            release cycle. When used in conjunction with the gate the trigger can re-initiate 
+                            an attack cycle when it occurs during the decay or sustain cycles. 
+                            </font>
+                            <p>
+                            <img src="ADSR001_files/ADSR001_cyclediags.gif" border="1">
+                            
+                            </p><p>
+	<b>This is an intermediate to advanced project and I do not recommend it 
+	as a first project if you are just getting started in synths or electronics.
+	Only the circuit and some explanation is shown here. A lot of project building experience and electronics
+	knowledge and equipment ownership (scope, meters, etc.) is taken for granted.
+	If you are interested in building this project please read the entire page before
+	ordering PC boards to ensure that the information provided is thorough enough for you to complete the project.</b>
+	</p><p>
+                            
+                        </p><p>
+                            <!-- ************ -->
+                            <!-- PCB PROMOTE  -->
+                            <!-- ************ -->
+                            <font size="3"><b>Buy ADSR Envelope Generator PC Boards</b></font>
+                            <table id="Table5" border="0" cellpadding="4" width="800">
+                                <tbody><tr>
+                                    <td valign="top">
+                                        Tired of etchant eating your hands and the tedious work of drilling hundreds of 
+                                        tiny holes. Tired of that tingly guilty feeling you get as you flush ferric 
+                                        chloride into the environment. Then buy a ready-to-go, super high quality PC 
+                                        Board! You can feel good because I get my boards from an environmentally 
+                                        responsible manufacturer!
+                                        <p>
+                                        <b>Purchase Printed Circuit Boards online!</b> Click the Add To Cart button to 
+                                        make a purchase or go to <a href="http://www.paypal.com/">PayPal</a>
+                                        to sign up for a PayPal account. You can also set the number of boards you 
+                                        would like to buy on the PayPal shopping cart page.
+                                        </p><p>
+                                        Please note that you are buying an <b>un-populated PC board</b>
+                                        only. The glass epoxy, double sided, plated through-hole PC board is 
+                                        professionally manufactured, pre-drilled and silk-screened with a parts layout 
+                                        legend. You must purchase all of the parts for the project and build it 
+                                        yourself. But since that is the whole idea behind DIY (Do It Yourself) that's a 
+                                        good thing.
+                                    </p></td>
+                                </tr>
+                            </tbody></table>
+                            <!-- ************ -->
+                            <!-- PCB PROMOTE  -->
+                            <!-- ************ -->
+                            </p><hr>
+                            <!-- ************ -->
+                            <!-- PCB PHOTOS   -->
+                            <!-- ************ -->
+                            <table border="0" cellpadding="4" width="640">
+                                <tbody><tr>
+                                    <td valign="top">
+                                        <font size="3"><b>ADSR Envelope Generator PC Board (4.5" x 2.5")</b></font>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top"><!-- PCB PHOTOS -->
+                                        <img src="ADSR001_files/ADSRpcfrontshot.jfif" hspace="0" vspace="0"><p>
+                                        <img src="ADSR001_files/ADSRpcbackshot.jfif" hspace="0" vspace="0">
+                                    </p></td>
+                                </tr>
+                            </tbody></table>
+                            <!-- ************ -->
+                            <!-- PCB PHOTOS   -->
+                            <!-- ************ -->
+                            <!-- ************ -->
+                            <!-- PAYPAL SALES -->
+                            <!-- ************ -->
+                            <table id="Table17" border="0" cellpadding="6" cellspacing="0" width="500">
+                                <tbody><tr>
+                                    <td>
+                                        <h3>Purchase ADSR Envelope Generator PC Boards via PayPal<br>
+                                    </h3></td>
+                                </tr>
+                            </tbody></table>
+                            <table id="Table18" bgcolor="#ffffff" border="0" cellpadding="4" cellspacing="0" width="500">
+                                <tbody><tr bgcolor="#eeeeee">
+                                    <td valign="top">
+                                        <b>(1) ADSR Envelope Generator PC Board $12.50</b>
+                                    </td>
+                                    <td valign="top" width="5%">
+                                        <!-- ****************** -->
+                                        <!-- PAYPAL ADD TO CART -->
+                                        <!-- ****************** -->
+                                        <form name="_xclick" target="paypal" action="https://www.paypal.com" method="post" id="Form1">
+                                            <input name="cmd" value="_cart" id="Hidden1" type="hidden"> 
+                                            <input name="business" value="raywilson@comcast.net" id="Hidden2" type="hidden">
+                                            <input name="item_name" value="ADSR Envelope Generator PC Board" id="Hidden3" type="hidden">
+                                            <input name="item_number" value="ADSRPCB001" id="Hidden4" type="hidden"> 
+                                            <input name="amount" value="12.50" id="Hidden5" type="hidden">
+                                            <input src="ADSR001_files/sc-but-01.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" id="Image1" border="0" type="image"> 
+                                                <input name="add" value="1" id="Hidden6" type="hidden">
+                                        </form>
+                                        <!-- ****************** -->
+                                        <!-- PAYPAL ADD TO CART -->
+                                        <!-- ****************** -->
+                                    </td>
+                                </tr>
+                                <tr bgcolor="#eeeeee">
+                                    <td colspan="2">
+                                        <!-- **************** -->
+                                        <!-- PAYPAL VIEW CART -->
+                                        <!-- **************** -->
+                                        <form name="_xclick" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" id="Form2">
+                                            <input name="cmd" value="_cart" id="Hidden7" type="hidden"> <input name="business" value="raywilson@comcast.net" id="Hidden8" type="hidden">
+                                            <input src="ADSR001_files/view_cart.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" id="Image2" border="0" type="image"> <input name="display" value="1" id="Hidden9" type="hidden">
+                                        </form>
+                                        <!-- **************** -->
+                                        <!-- PAYPAL VIEW CART -->
+                                        <!-- **************** -->
+                                    </td>
+                                </tr>
+                                <tr bgcolor="#ffffff">
+                                    <td colspan="2">
+                                        <p>
+                                            <b>There is a $4.00 Shipping and Handling fee on all orders. Most people get their 
+                                                boards within a week but... Please allow three weeks for delivery within the 
+                                                United States and four to five weeks for destinations outside of the United 
+                                                States.</b>
+                                    </p></td>
+                                </tr>
+                            </tbody></table>
+                        <!-- ************ -->
+                        <!-- PAYPAL SALES -->
+                        <!-- ************ -->
+                        <p>
+                            </p><hr>
+                            <b><font size="3">ADSR Envelope Generator Page 1 <a href="http://www.musicfromouterspace.com/analogsynth/ADSR001/ADSR_12_2005_schem.pdf" target="PDF_VIWER">PDF</a></font></b>
+                        <p>
+                            <img src="ADSR001_files/ADSR001_schem.gif">
+                        </p><p>
+                            <table id="Table1">
+                                <tbody><tr>
+                                    <td>
+                                        <font size="2">
+                                            </font><p>
+<font size="2">                                            
+With gate and trigger inputs at 0V the circuit is at its quiescent state. Point R is
+high in this state because both inputs of U2-D are low. Point R being high causes analog 
+switch U4-C to be on which discharges C15 to ground via the Release pot's resistance setting.
+When the gate input is brought slightly above 2 volts the comparator comprised of
+U1-A and associated components goes from -V to +V very quickly. This pushes current
+through C11 and drops a high going spike across R9. The spike across R9 causes 
+the flip-flop comprised of U2-A and U2-B to output a high logic level on pin 4 of U2-B.
+This high level turns off analog switch U4-C and turns on analog switch U4-B which begins to charge C15 (or
+C15 and C16 in parallel if S2 is closed) toward V+. The voltage on C15 is sensed by
+U5-C which acts as a comparator with a threshold of 10 volts. When C15 charges to 10 volts
+U5-C's output goes from -V to +V very quickly. The positive excursion of the output of U5-C 
+(pin 8) is fed to the input of U2-B via D5 and causes the flip-flop comprised of U2-A and U2-B to 
+output a low logic level on pin 4 of U2-B. The presence of the gate keeps U2-D's output low
+but also allows U2-C's output to go high turning on U4-A which allows C15 to discharge to the
+level of U5-A's output (which is determined by the sustain pot setting). When the gate is released
+C15 is discharged to ground at the rate set by the Release pot when analog switch U4-C closes.
+If the gate is applied and release before the decay cycle the output of U3-A goes high and resets the
+flip-flop comprised of U2-A and U2-B so that the release phase is entered immediately.
+Application of trigger pulses (along with the gate present) after the attack phase has completed 
+sets the flip flop and starts the attack cycle over again. Application of trigger pulses 
+(without the gate present) results in a complete attack phase followed by the release phase.
+                                            
+                                            
+                                            </font>
+                                    </p></td>
+                                </tr>
+                                
+                            </tbody></table>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator PCB Parts Layout (Parts Side Shown) <a href="http://www.musicfromouterspace.com/analogsynth/ADSR001/ADSR_12_2005_parts.pdf" target="PDF_VIWER">
+                                    PDF</a></b>
+                        <p>
+                            <img src="ADSR001_files/ADSR001_parts.gif">
+                        </p><p>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator PCB Bottom Copper (Parts Side Shown)</b><br>
+                            <img src="ADSR001_files/ADSR001_bottomcopper.gif">
+                        <p>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator PCB Top Copper(Parts Side Shown)</b><br>
+                            <img src="ADSR001_files/ADSR001_topcopper.gif">
+                        <p>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator PCB Top Silk Screen</b><br>
+                            <img src="ADSR001_files/ADSR001_silk.gif">
+                        <p>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator Front Panel Suggestion <a href="http://www.musicfromouterspace.com/analogsynth/ADSR001/ADSR001_panelsuggestion_schem.pdf" target="PDF_VIWER">PDF</a></b>
+                            <br><img src="ADSR001_files/ADSR001_panelsuggestion.gif">
+                        <p>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator Front Panel Wiring <a href="http://www.musicfromouterspace.com/analogsynth/ADSR001/ADSR001_panelwiring_schem.pdf" target="PDF_VIWER">PDF</a></b>
+                            <br><img src="ADSR001_files/ADSR001_panelwiring.gif">
+                        <p>
+                        </p><p>
+                            </p><hr>
+                            <b>ADSR Envelope Generator During Testing</b>&nbsp;<a target="photowindow" href="http://www.musicfromouterspace.com/analogsynth/ADSR001/ADSRbenchshot.jpg">Larger Shot</a>
+                            <p><img src="ADSR001_files/ADSRbenchshotsmall.jfif">
+                        </p><p>
+                        </p><p>
+                            </p><hr>
+                            <h3>ADSR Envelope Generator Project Parts List</h3>
+<p>
+<table id="Table2" border="1" cellpadding="2" cellspacing="0" width="640"><tbody><tr><th width="20"> Qty.</th><th width="250"> Description</th><th width="100"> Value</th><th width="250"> Designators</th></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">CD4001 Quad NOR&nbsp;&nbsp;</td><td valign="top">CD4001&nbsp;&nbsp;</td><td valign="top">U2&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">CD40106 Hex Schmitt Trigger&nbsp;&nbsp;</td><td valign="top">CD40106&nbsp;&nbsp;</td><td valign="top">U3&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">CD4066 Quad Analog Sw.&nbsp;&nbsp;</td><td valign="top">CD4066&nbsp;&nbsp;</td><td valign="top">U4&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">TL082 Dual Op Amp&nbsp;&nbsp;</td><td valign="top">TL082&nbsp;&nbsp;</td><td valign="top">U1&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">TL084 Quad Op Amp&nbsp;&nbsp;</td><td valign="top">TL084&nbsp;&nbsp;</td><td valign="top">U5&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   5&nbsp;&nbsp;</td><td valign="top">1N914 or 1N4148 Diode&nbsp;&nbsp;</td><td valign="top">VALUE&nbsp;&nbsp;</td><td valign="top">D2, D4, D5, D3, D1&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   2&nbsp;&nbsp;</td><td valign="top">Ceramic Capacitor(s)&nbsp;&nbsp;</td><td valign="top">.001uF&nbsp;&nbsp;</td><td valign="top">C11, C12&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   2&nbsp;&nbsp;</td><td valign="top">Ceramic Capacitor(s)&nbsp;&nbsp;</td><td valign="top">.01uF&nbsp;&nbsp;</td><td valign="top">C5, C6&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   6&nbsp;&nbsp;</td><td valign="top">Ceramic Capacitor(s)&nbsp;&nbsp;</td><td valign="top">.1uF&nbsp;&nbsp;</td><td valign="top">C14, C7, C2, C8, C9, C3&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   2&nbsp;&nbsp;</td><td valign="top">Ceramic Capacitor(s)&nbsp;&nbsp;</td><td valign="top">100pF&nbsp;&nbsp;</td><td valign="top">C1, C13&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   2&nbsp;&nbsp;</td><td valign="top">Electrolytic Capacitor(s)&nbsp;&nbsp;</td><td valign="top">10uF&nbsp;&nbsp;</td><td valign="top">C4, C10&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">Electrolytic Capacitor Tant.&nbsp;&nbsp;</td><td valign="top">10uF&nbsp;&nbsp;</td><td valign="top">C16&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">Electrolytic Capacitor Tant.&nbsp;&nbsp;</td><td valign="top">1uF&nbsp;&nbsp;</td><td valign="top">C15&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">Potentiometer&nbsp;&nbsp;</td><td valign="top">100K&nbsp;&nbsp;</td><td valign="top">R18&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">Potentiometer&nbsp;&nbsp;</td><td valign="top">10K&nbsp;&nbsp;</td><td valign="top">R23&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   3&nbsp;&nbsp;</td><td valign="top">Potentiometer(s) Log Taper&nbsp;&nbsp;</td><td valign="top">1M&nbsp;&nbsp;</td><td valign="top">R16, R22, R17&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   3&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%(s)&nbsp;&nbsp;</td><td valign="top">100K&nbsp;&nbsp;</td><td valign="top">R14, R6, R9&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   7&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%(s)&nbsp;&nbsp;</td><td valign="top">10K&nbsp;&nbsp;</td><td valign="top">R5, R8, R13, R12, R3, R20, R11&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   2&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%(s)&nbsp;&nbsp;</td><td valign="top">1K&nbsp;&nbsp;</td><td valign="top">R21, R24&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   2&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%(s)&nbsp;&nbsp;</td><td valign="top">1M&nbsp;&nbsp;</td><td valign="top">R2, R15&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   3&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%(s)&nbsp;&nbsp;</td><td valign="top">20K&nbsp;&nbsp;</td><td valign="top">R4, R10, R7&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%&nbsp;&nbsp;</td><td valign="top">2K&nbsp;&nbsp;</td><td valign="top">R19&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">Resistor 1/4 Watt 5%&nbsp;&nbsp;</td><td valign="top">47K&nbsp;&nbsp;</td><td valign="top">R1&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">SPST PB Switch&nbsp;&nbsp;</td><td valign="top">SPST&nbsp;&nbsp;</td><td valign="top">S1&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   1&nbsp;&nbsp;</td><td valign="top">SPST Switch&nbsp;&nbsp;</td><td valign="top">SPST&nbsp;&nbsp;</td><td valign="top">S2&nbsp;&nbsp;</td></tr>
+<tr bgcolor="#ffffff"><td align="right" valign="top">   3&nbsp;&nbsp;</td><td valign="top">Jack (2 Conductor)&nbsp;&nbsp;</td><td valign="top">Jack&nbsp;&nbsp;</td><td valign="top">J1, J2, J3&nbsp;&nbsp;</td></tr>
+</tbody></table>
+                            
+                        </p><p>
+                            <b>Miscellaneous</b>
+                        </p><p>
+                            </p><ul>
+                                <li>
+                                (1) 4" x 10" 1/16" thick Aluminum plate for mounting the pots and 
+                                switches.
+                                </li><li>
+                                Unit is typically mounted in a synth case with other synth modules.
+                                </li><li>
+                                Assorted hardware 1" 6-32 nuts and bolts, 1/2" #8 wood screws, etc
+                                </li><li>
+                                Knobs for potentiometers, wire, solder and typical assorted electronics hand 
+                                tools.
+                                </li><li>
+                                Digital Volt Meter and a Signal Tracer or oscilloscope for testing.
+                            </li></ul>
+                        <p>
+                            </p><center>
+                                <font color="gray" size="1">All Content Copyright Ray Wilson and RJWSoft 2006</font>
+                            </center>
+    </td></tr></tbody></table></center></body></html>
