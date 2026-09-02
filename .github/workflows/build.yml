@@ -1,0 +1,39 @@
+name: Website bauen
+
+# Läuft nur bei Änderungen an der Website selbst, nicht bei jeder
+# Inhaltsänderung: das Auschecken der 3 GB Anhänge dauert sonst unnötig lange.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'tools/*.mjs'
+      - 'astro.config.mjs'
+      - 'package*.json'
+      - '.github/workflows/build.yml'
+  pull_request:
+    paths:
+      - 'src/**'
+      - 'tools/*.mjs'
+      - 'astro.config.mjs'
+      - 'package*.json'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Nur der aktuelle Stand, nicht die ganze History mit allen Bildern
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Umfang der Ausgabe melden
+        run: |
+          echo "Seiten: $(find dist -name '*.html' | wc -l)"
+          echo "Groesse: $(du -sh dist | cut -f1)"
