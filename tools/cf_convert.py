@@ -15,6 +15,15 @@ def yaml_str(s):
 class Site:
     def __init__(self):
         self.m = cflib.build_model()
+        # optimize_images.py kann Dateien umbenennen (HEIC -> JPEG)
+        rw_path = os.path.join(cflib.RAW, "asset-rewrites.json")
+        self.rewrites = {}
+        if os.path.exists(rw_path):
+            import json
+            self.rewrites = json.load(open(rw_path))
+            for pg in self.m["pages"].values():
+                for a in pg["attachments"]:
+                    a["file"] = self.rewrites.get(a["file"], a["file"])
         self.pages = self.m["pages"]
         self.title_idx = self.m["title_idx"]
         self.by_num = {str(p["id"]): p for p in self.pages.values()}
@@ -78,6 +87,7 @@ class Site:
     # ---- Anhaenge ----
     def asset(self, src, filename):
         fn = cflib.asset_name(filename)
+        fn = self.rewrites.get(fn, fn)
         if not any(a["file"] == fn for a in src["attachments"]):
             for p in self.pages.values():     # Anhang einer anderen Seite?
                 if any(a["file"] == fn for a in p["attachments"]):
@@ -87,7 +97,7 @@ class Site:
         return "assets/" + fn
 
     def has_asset(self, src, filename):
-        fn = cflib.asset_name(filename)
+        fn = self.rewrites.get(cflib.asset_name(filename), cflib.asset_name(filename))
         return any(a["file"] == fn for a in src["attachments"])
 
     def gallery(self, src):

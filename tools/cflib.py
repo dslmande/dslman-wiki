@@ -7,6 +7,18 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "raw")
 CONTENT = os.path.join(ROOT, "content")
 
+def auth_args():
+    """curl-Argumente fuer die Anmeldung, falls ein API-Token hinterlegt ist.
+
+    export CONFLUENCE_EMAIL=... ; export CONFLUENCE_TOKEN=...
+    (Token: id.atlassian.com -> Sicherheit -> API-Token). Ohne diese Variablen
+    laeuft der Export anonym und sieht nur oeffentliche Seiten.
+    """
+    mail = os.environ.get("CONFLUENCE_EMAIL")
+    tok = os.environ.get("CONFLUENCE_TOKEN")
+    return ["-u", "%s:%s" % (mail, tok)] if mail and tok else []
+
+
 UMLAUT = {"ä": "ae", "ö": "oe", "ü": "ue", "Ä": "ae", "Ö": "oe", "Ü": "ue", "ß": "ss"}
 
 
@@ -69,8 +81,18 @@ def build_model():
         b["kind"] = "blogpost"
         by_id[b["id"]] = b
 
-    # Homepage je Space = Space-Wurzel
-    homepages = {str(s.get("homepageId")): s["id"] for s in spaces.values() if s.get("homepageId")}
+    # Space-Wurzel: die Seite ohne Elternseite. Nur wenn ein Space mehrere oder
+    # keine solche Seite hat, entscheidet die in Confluence gesetzte Homepage.
+    roots = {}
+    for p in list(by_id.values()):
+        if p["kind"] == "page" and not p.get("parentId"):
+            roots.setdefault(p.get("spaceId"), []).append(p)
+    homepages = {}
+    for sp in spaces.values():
+        top = roots.get(sp["id"], [])
+        chosen = top[0] if len(top) == 1 else by_id.get(str(sp.get("homepageId")))
+        if chosen is not None:
+            homepages[str(chosen["id"])] = sp["id"]
 
     def chain(p):
         out, seen = [], set()
@@ -88,7 +110,7 @@ def build_model():
         if p["kind"] == "blogpost":
             day = (p.get("createdAt") or "")[:10]
             parts = [sl, "blog", "%s-%s" % (day, slugify(p.get("title")))]
-        elif str(p["id"]) in homepages and not p.get("parentId"):
+        elif str(p["id"]) in homepages:
             parts = [sl]
         else:
             ch = chain(p)

@@ -104,9 +104,13 @@ output 10k log stereo !! 9mm alpha 
 
  
 
+![IMG_8925.heic](assets/IMG_8925.jpg)
+
 ![switches.jpg](assets/switches.jpg)
 
 ![Bildschirmfoto 2023-05-09 um 10.59.28.png](assets/Bildschirmfoto-2023-05-09-um-10.59.28.png)
+
+![IMG_8926.heic](assets/IMG_8926.jpg)
 
 ![potis.jpg](assets/potis.jpg)
 

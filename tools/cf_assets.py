@@ -32,7 +32,8 @@ def main():
     running = []
     for u, f in todo:
         running.append((subprocess.Popen(
-            ["curl", "-sS", "-L", "--fail", "--max-time", "300", "-o", f + ".part", u],
+            ["curl", "-sS", "-L", "--fail", "--max-time", "300"] + cflib.auth_args()
+            + ["-o", f + ".part", u],
             stdout=subprocess.DEVNULL, stderr=subprocess.PIPE), f))
         while len(running) >= PAR:
             done, err = reap(running, done, err)

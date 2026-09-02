@@ -14,7 +14,7 @@ attachments: 5
 
 ### Status: `finished`
 
-**due to price changes on my Webhosting, feel free to send a [paypal gift to support my website](../../../impressum-info/info-home/impressum/paypal/index.md)**
+**due to price changes on my Webhosting, feel free to send a [paypal gift to support my website](../../../impressum-info/impressum/paypal/index.md)**
 
 **thank you**
 

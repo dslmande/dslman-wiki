@@ -18,7 +18,7 @@ Diese Seite dient zur Zusammenfassung von Funkzellen/Masten/Infos
 
 **Fazit**: Maximal 500Mbit/50Mbit Down/Upload mit einer Outdoor Antenne und Enterprise Router bei Telekom und Vodafone. Die Preise beginnen hier bei ca.35€ im Businesstarif und bei ca.50€ im Privatkundenbereich.
 
-Das beste und Preis/Leistungsverhältnis hat o2, mit ca.20-25€ bei einer echten Datenflat im 5G Netz, die hier erreichten Geschwindigkeiten von ca.150-180Mbit sind akzeptabel. Dennoch bietet hier Vodafone mehr Geschwindigkeit und die Preise beginnen bei 25Euro für echte Flatrates im 4G/5G Netz für Gewerbetreibende. Im Privatkundenbereich liegt man bei ca.30-35Euro aufwaerts. [Fragen Sie mich](../../impressum-info/info-home/impressum/index.md), da Vodafone manche Angebote nicht bewirbt.
+Das beste und Preis/Leistungsverhältnis hat o2, mit ca.20-25€ bei einer echten Datenflat im 5G Netz, die hier erreichten Geschwindigkeiten von ca.150-180Mbit sind akzeptabel. Dennoch bietet hier Vodafone mehr Geschwindigkeit und die Preise beginnen bei 25Euro für echte Flatrates im 4G/5G Netz für Gewerbetreibende. Im Privatkundenbereich liegt man bei ca.30-35Euro aufwaerts. [Fragen Sie mich](../../impressum-info/impressum/index.md), da Vodafone manche Angebote nicht bewirbt.
 
 ![IMG_8300.jpeg](assets/IMG_8300.jpeg)
 

@@ -193,7 +193,11 @@ settings in SysEx tool:
 
 ![IMG_7513.jpeg](assets/IMG_7513.jpeg)
 
+![IMG_7636.HEIC](assets/IMG_7636.jpg)
+
 ![IMG_7514.jpeg](assets/IMG_7514.jpeg)
+
+![IMG_7635.HEIC](assets/IMG_7635.jpg)
 
 ![IMG_7635.jpg](assets/IMG_7635.jpg)
 

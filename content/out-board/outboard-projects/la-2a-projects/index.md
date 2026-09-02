@@ -96,7 +96,7 @@ at one build is R4 and R3 swapped (R3 at front panel - customer request/mod)
 
 ![IMG_0178.jpeg](assets/IMG_0178.jpeg)
 
-![IMG_0532.HEIC](assets/IMG_0532.heic)
+![IMG_0532.HEIC](assets/IMG_0532.jpg)
 
 ![IMG_1027.jpeg](assets/IMG_1027.jpeg)
 

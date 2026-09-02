@@ -16,7 +16,7 @@ attachments: 2
 >
 > Hi all, this is the place to find the latest building documents for Black Corporation's ISE-NIN polyphonic synthesizer.
 >
-> feel free to share videos, audio demos for this pages ([contact me](../impressum-info/info-home/impressum/index.md))
+> feel free to share videos, audio demos for this pages ([contact me](../impressum-info/impressum/index.md))
 
 > **Links**
 >

@@ -5,6 +5,7 @@ Anonymer Lesezugriff genuegt; alle Requests laufen ueber curl, weil das
 System-Python kein CA-Bundle hat.
 """
 import json, os, subprocess, sys, time, urllib.parse
+import cflib
 
 HOST = "https://diysynth.wiki.dsl-man.de"
 BASE = HOST + "/wiki"
@@ -17,7 +18,8 @@ def curl(url, tries=4):
     elif url.startswith("/"):
         url = HOST + url
     for n in range(tries):
-        p = subprocess.run(["curl", "-sS", "--compressed", "--max-time", "60", url],
+        p = subprocess.run(["curl", "-sS", "--compressed", "--max-time", "60"]
+                           + cflib.auth_args() + [url],
                            capture_output=True, text=True)
         if p.returncode == 0:
             try:

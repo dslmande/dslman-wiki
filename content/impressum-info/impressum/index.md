@@ -129,7 +129,7 @@ Selection of suitable tools, measuring devices and, if necessary, personal prote
 
 </details>
 
-[The electricity safety rules](../../../knowhow/sdiy-knowho/the-electricity-safety-rules/index.md)
+[The electricity safety rules](../../knowhow/sdiy-knowho/the-electricity-safety-rules/index.md)
 
 # Hinweis zur Arbeit mit elektrischen Anlagen/Strom/spannung
 
