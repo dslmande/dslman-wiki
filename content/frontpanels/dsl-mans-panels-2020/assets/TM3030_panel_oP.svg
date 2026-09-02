@@ -1,0 +1,1532 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="308.000mm" height="167.000mm" version="1.1"
+     viewBox="0 0 308.000 167.000"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:fpd="http://www.schaeffer-ag.de">
+  <desc>Diese Zeichnung wurde mit dem Frontplatten Desinger durch den Export der Datei 'TM3030_panel.fpd' erzeugt.</desc>
+  <defs>
+    <pattern id="revside-fill" x="1" y="1" width="1.5" height="1.5" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1" y2="1" style="stroke-width:0.2; stroke:black; stroke-dasharray:none;" />
+      <line x1="0" y1="1" x2="1" y2="0" style="stroke-width:0.2; stroke:black; stroke-dasharray:none;" />
+    </pattern>
+    <pattern id="revside-fill-e0e0e0" x="1" y="1" width="1.5" height="1.5" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1.5" y2="1.5" style="stroke-width:0.2; stroke:#e0e0e0; stroke-dasharray:none;" />
+      <line x1="0" y1="1.5" x2="1.5" y2="0" style="stroke-width:0.2; stroke:#e0e0e0; stroke-dasharray:none;" />
+    </pattern>
+  </defs>
+<g transform="scale(1,-1) translate(0, -167.000)" 
+   fill-rule="evenodd"
+   style="stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0;">
+<path d="M307.000 167.000 
+L1.000 167.000
+A1.000,1.000 0 0,1 0.000,166.000
+L0.000 1.000
+A1.000,1.000 0 0,1 1.000,0.000
+L307.000 0.000
+A1.000,1.000 0 0,1 308.000,1.000
+L308.000 166.000
+A1.000,1.000 0 0,1 307.000,167.000z"
+fill="#000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" />
+<path d="M0.000 -1.020 
+A2.112,2.112 0 0,1 4.224,-1.020
+L4.224 0.960
+A2.112,2.112 0 0,1 0.000,0.960
+L0.000 -1.020
+M9.240 0.960 
+L9.240 -1.350
+A1.716,1.716 0 0,0 5.808,-1.350
+L5.808 -0.690
+A1.716,1.716 0 0,0 9.240,-0.690
+L9.240 -2.274
+A0.961,0.961 0 0,1 10.032,-3.132
+M11.616 2.940 
+L11.616 -3.000
+L11.616 -1.680
+L14.916 0.960
+L12.936 -0.624
+L14.916 -3.000
+M16.500 2.940 L16.500 -2.208A0.805,0.805 0 0,1 17.160,-3.000
+M18.744 -1.020 
+L22.044 -1.020
+L22.044 -0.690
+A1.650,1.650 0 0,1 18.744,-0.690
+L18.744 -1.350
+A1.730,1.730 0 0,1 21.846,-2.406
+M23.628 0.960 L25.212 -2.802
+M26.928 0.960 L24.552 -4.386A1.000,1.000 0 0,0 23.628,-4.980
+M36.564 2.346 
+A1.566,1.566 0 0,1 35.640,2.940
+A3.728,3.728 0 0,1 33.792,2.874
+A1.764,1.764 0 0,1 32.868,2.214
+A1.208,1.208 0 0,1 33.462,0.366
+L35.772 -0.426
+A1.208,1.208 0 0,0 36.366,-2.274
+A1.764,1.764 0 0,0 35.442,-2.934
+A3.728,3.728 0 0,0 33.594,-3.000
+A1.566,1.566 0 0,0 32.670,-2.406
+M38.148 -1.350 
+L38.148 -0.690
+A1.650,1.650 0 0,0 41.448,-0.690
+L41.448 -1.350
+A1.650,1.650 0 0,0 38.148,-1.350
+M43.032 0.960 
+L43.032 -1.350
+A1.650,1.650 0 0,1 46.332,-1.350
+L46.332 -3.000
+L46.332 0.960
+M47.916 -3.000 
+L47.916 0.960
+L47.916 -0.690
+A1.650,1.650 0 0,0 51.216,-0.690
+L51.216 -3.000
+M56.100 2.940 
+L56.100 -1.350
+A1.651,1.651 0 0,0 52.800,-1.482
+L52.800 -0.690
+A1.650,1.650 0 0,0 56.100,-0.690
+L56.100 -3.000
+M65.736 2.346 
+A1.566,1.566 0 0,1 64.812,2.940
+A3.728,3.728 0 0,1 62.964,2.874
+A1.764,1.764 0 0,1 62.040,2.214
+A1.208,1.208 0 0,1 62.634,0.366
+L64.944 -0.426
+A1.208,1.208 0 0,0 65.538,-2.274
+A1.764,1.764 0 0,0 64.614,-2.934
+A3.728,3.728 0 0,0 62.766,-3.000
+A1.566,1.566 0 0,0 61.842,-2.406
+M67.320 0.960 L68.904 -2.802
+M70.620 0.960 L68.244 -4.386A1.000,1.000 0 0,0 67.320,-4.980
+M72.204 -2.472 
+A2.242,2.242 0 0,1 74.580,-2.868
+A0.847,0.847 0 0,1 74.514,-1.284
+L72.732 -0.690
+A0.760,0.760 0 0,0 72.600,0.696
+A2.337,2.337 0 0,0 75.108,0.564
+M77.286 2.940 
+L77.286 0.960
+L78.276 0.960
+L76.626 0.960
+L77.286 0.960
+L77.286 -2.208
+A0.805,0.805 0 0,1 77.946,-3.000
+M79.860 -1.020 
+L83.160 -1.020
+L83.160 -0.690
+A1.650,1.650 0 0,1 79.860,-0.690
+L79.860 -1.350
+A1.730,1.730 0 0,1 82.962,-2.406
+M84.744 -3.000 
+L84.744 0.960
+L84.744 -0.360
+A1.320,1.320 0 0,0 87.384,-0.360
+L87.384 -3.000
+L87.384 -0.360
+A1.320,1.320 0 0,0 90.024,-0.360
+L90.024 -3.000
+M91.608 -2.472 
+A2.242,2.242 0 0,1 93.984,-2.868
+A0.847,0.847 0 0,1 93.918,-1.284
+L92.136 -0.690
+A0.760,0.760 0 0,0 92.004,0.696
+A2.337,2.337 0 0,0 94.512,0.564"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" transform="translate(17.522,18.509) scale(0.900,1.000) "/>
+<path d="M0.000 2.940 
+L3.960 2.940
+L1.980 2.940
+L1.980 -3.000
+M5.544 -3.000 
+L5.544 2.940
+L7.854 -1.350
+L10.164 2.940
+L10.164 -3.000
+M11.748 2.016 
+A1.733,1.733 0 0,0 13.332,3.072
+A1.551,1.551 0 0,0 13.332,-0.030
+A1.551,1.551 0 0,0 13.332,-3.132
+A1.835,1.835 0 0,0 11.748,-2.208
+M16.500 1.356 
+L16.500 -1.416
+A1.716,1.716 0 0,1 19.932,-1.416
+L19.932 1.356
+A1.716,1.716 0 0,1 16.500,1.356
+M21.516 2.016 
+A1.733,1.733 0 0,0 23.100,3.072
+A1.551,1.551 0 0,0 23.100,-0.030
+A1.551,1.551 0 0,0 23.100,-3.132
+A1.835,1.835 0 0,0 21.516,-2.208
+M26.268 1.356 
+L26.268 -1.416
+A1.716,1.716 0 0,1 29.700,-1.416
+L29.700 1.356
+A1.716,1.716 0 0,1 26.268,1.356
+M3.630 -9.918 
+A1.935,1.935 0 0,1 0.000,-10.908
+L0.000 -13.152
+A1.983,1.983 0 0,1 3.828,-13.878
+M5.412 -13.350 
+L5.412 -12.690
+A1.650,1.650 0 0,0 8.712,-12.690
+L8.712 -13.350
+A1.650,1.650 0 0,0 5.412,-13.350
+M10.296 -15.000 
+L10.296 -11.040
+L10.296 -12.360
+A1.320,1.320 0 0,0 12.936,-12.360
+L12.936 -15.000
+L12.936 -12.360
+A1.320,1.320 0 0,0 15.576,-12.360
+L15.576 -15.000
+M17.160 -16.980 
+L17.160 -12.690
+A1.650,1.650 0 0,0 20.460,-12.690
+L20.460 -13.350
+A1.650,1.650 0 0,0 17.160,-13.350
+L17.160 -11.040
+M22.044 -11.040 
+L22.044 -13.350
+A1.650,1.650 0 0,1 25.344,-13.350
+L25.344 -15.000
+L25.344 -11.040
+M27.522 -9.060 
+L27.522 -11.040
+L28.512 -11.040
+L26.862 -11.040
+L27.522 -11.040
+L27.522 -14.208
+A0.805,0.805 0 0,1 28.182,-15.000
+M30.096 -13.020 
+L33.396 -13.020
+L33.396 -12.690
+A1.650,1.650 0 0,1 30.096,-12.690
+L30.096 -13.350
+A1.730,1.730 0 0,1 33.198,-14.406
+M34.980 -15.000 
+L34.980 -11.040
+L34.980 -12.360
+A1.458,1.458 0 0,0 35.310,-11.436
+A0.940,0.940 0 0,0 36.762,-11.436
+M46.134 -9.918 
+A1.935,1.935 0 0,1 42.504,-10.908
+L42.504 -13.152
+A1.983,1.983 0 0,1 46.332,-13.878
+M47.916 -13.350 
+L47.916 -12.690
+A1.650,1.650 0 0,0 51.216,-12.690
+L51.216 -13.350
+A1.650,1.650 0 0,0 47.916,-13.350
+M52.800 -15.000 
+L52.800 -11.040
+L52.800 -12.690
+A1.650,1.650 0 0,0 56.100,-12.690
+L56.100 -15.000
+M58.278 -9.060 
+L58.278 -11.040
+L59.268 -11.040
+L57.618 -11.040
+L58.278 -11.040
+L58.278 -14.208
+A0.805,0.805 0 0,1 58.938,-15.000
+M60.852 -15.000 
+L60.852 -11.040
+L60.852 -12.360
+A1.458,1.458 0 0,0 61.182,-11.436
+A0.940,0.940 0 0,0 62.634,-11.436
+M64.152 -13.350 
+L64.152 -12.690
+A1.650,1.650 0 0,0 67.452,-12.690
+L67.452 -13.350
+A1.650,1.650 0 0,0 64.152,-13.350
+M69.036 -9.060 L69.036 -14.208A0.805,0.805 0 0,1 69.696,-15.000
+M71.280 -9.060 L71.280 -14.208A0.805,0.805 0 0,1 71.940,-15.000
+M73.524 -13.020 
+L76.824 -13.020
+L76.824 -12.690
+A1.650,1.650 0 0,1 73.524,-12.690
+L73.524 -13.350
+A1.730,1.730 0 0,1 76.626,-14.406
+M81.708 -9.060 
+L81.708 -13.350
+A1.651,1.651 0 0,0 78.408,-13.482
+L78.408 -12.690
+A1.650,1.650 0 0,0 81.708,-12.690
+L81.708 -15.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" transform="translate(220.388,32.824) scale(0.900,1.000) "/>
+<path d="M0.000 1.470 L0.990 -1.500L1.980 1.470
+M4.587 1.041 
+A0.968,0.968 0 0,1 2.772,0.546
+L2.772 -0.576
+A0.992,0.992 0 0,1 4.686,-0.939
+M5.478 -0.510 
+A1.056,1.056 0 0,1 7.590,-0.510
+L7.590 0.480
+A1.056,1.056 0 0,1 5.478,0.480
+L5.478 -0.510
+M10.494 1.470 
+L11.319 -1.500
+L12.144 1.470
+L12.969 -1.500
+L13.794 1.470
+M14.916 -0.675 L16.566 -0.675
+M14.586 -1.500 L15.741 1.470L16.896 -1.500
+M17.688 1.470 L18.678 -1.500L19.668 1.470
+M20.460 -0.015 L22.110 -0.015
+M22.440 1.470 
+L20.460 1.470
+L20.460 -1.500
+L22.440 -1.500
+M1.960 -7.827 
+A0.783,0.783 0 0,1 1.498,-7.530
+A1.864,1.864 0 0,1 0.574,-7.563
+A0.882,0.882 0 0,1 0.112,-7.893
+A0.604,0.604 0 0,1 0.409,-8.817
+L1.564 -9.213
+A0.604,0.604 0 0,0 1.861,-10.137
+A0.882,0.882 0 0,0 1.399,-10.467
+A1.864,1.864 0 0,0 0.475,-10.500
+A0.783,0.783 0 0,0 0.013,-10.203
+M3.082 -9.675 L4.732 -9.675
+M2.752 -10.500 L3.907 -7.530L5.062 -10.500
+M5.854 -7.530 
+L6.679 -10.500
+L7.504 -7.530
+L8.329 -10.500
+L9.154 -7.530
+M1.960 -21.327 
+A0.783,0.783 0 0,1 1.498,-21.030
+A1.864,1.864 0 0,1 0.574,-21.063
+A0.882,0.882 0 0,1 0.112,-21.393
+A0.604,0.604 0 0,1 0.409,-22.317
+L1.564 -22.713
+A0.604,0.604 0 0,0 1.861,-23.637
+A0.882,0.882 0 0,0 1.399,-23.967
+A1.864,1.864 0 0,0 0.475,-24.000
+A0.783,0.783 0 0,0 0.013,-23.703
+M4.402 -22.020 
+L4.402 -23.175
+A0.825,0.825 0 0,0 2.752,-23.175
+L2.752 -22.845
+A0.825,0.825 0 0,0 4.402,-22.845
+L4.402 -24.990
+M5.194 -22.020 
+L5.194 -23.175
+A0.825,0.825 0 0,1 6.844,-23.175
+L6.844 -24.000
+L6.844 -22.020
+M9.352 -22.020 
+L9.352 -23.175
+A0.858,0.858 0 0,0 7.636,-23.175
+L7.636 -22.845
+A0.858,0.858 0 0,0 9.352,-22.845
+L9.352 -23.637
+A0.481,0.481 0 0,1 9.748,-24.066
+M10.540 -24.000 
+L10.540 -22.020
+L10.540 -22.680
+A0.729,0.729 0 0,0 10.705,-22.218
+A0.470,0.470 0 0,0 11.431,-22.218
+M12.190 -23.010 
+L13.840 -23.010
+L13.840 -22.845
+A0.825,0.825 0 0,1 12.190,-22.845
+L12.190 -23.175
+A0.865,0.865 0 0,1 13.741,-23.703"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(55.414,161.992) scale(0.900,1.000) "/>
+<path d="M1.960 1.173 
+A0.783,0.783 0 0,1 1.498,1.470
+A1.864,1.864 0 0,1 0.574,1.437
+A0.882,0.882 0 0,1 0.112,1.107
+A0.604,0.604 0 0,1 0.409,0.183
+L1.564 -0.213
+A0.604,0.604 0 0,0 1.861,-1.137
+A0.882,0.882 0 0,0 1.399,-1.467
+A1.864,1.864 0 0,0 0.475,-1.500
+A0.783,0.783 0 0,0 0.013,-1.203
+M2.752 1.470 L2.752 -1.500L4.402 -1.500
+M5.194 1.470 L5.194 -1.500
+M5.986 1.470 
+L7.009 1.470
+A0.995,0.995 0 0,0 7.966,0.480
+L7.966 -0.510
+A0.956,0.956 0 0,0 7.009,-1.500
+L5.986 -1.500
+L5.986 1.470
+M8.758 -0.015 L10.408 -0.015
+M10.738 1.470 
+L8.758 1.470
+L8.758 -1.500
+L10.738 -1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(108.096,110.851) scale(0.900,1.000) "/>
+<path d="M0.330 -0.675 L1.980 -0.675
+M0.000 -1.500 L1.155 1.470L2.310 -1.500
+M4.917 1.041 
+A0.968,0.968 0 0,1 3.102,0.546
+L3.102 -0.576
+A0.992,0.992 0 0,1 5.016,-0.939
+M7.623 1.041 
+A0.968,0.968 0 0,1 5.808,0.546
+L5.808 -0.576
+A0.992,0.992 0 0,1 7.722,-0.939
+M8.514 -0.015 L10.164 -0.015
+M10.494 1.470 
+L8.514 1.470
+L8.514 -1.500
+L10.494 -1.500
+M11.286 -1.500 
+L11.286 1.470
+L13.266 -1.500
+L13.266 1.470
+M14.058 1.470 
+L16.038 1.470
+L15.048 1.470
+L15.048 -1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(253.833,110.846) scale(0.900,1.000) "/>
+<path d="M0.000 -1.500 
+L0.000 1.470
+L1.089 1.470
+A0.742,0.742 0 0,0 1.089,-0.015
+L0.000 -0.015
+M2.574 -0.510 
+A1.056,1.056 0 0,1 4.686,-0.510
+L4.686 0.480
+A1.056,1.056 0 0,1 2.574,0.480
+L2.574 -0.510
+M5.478 1.470 
+L6.303 -1.500
+L7.128 1.470
+L7.953 -1.500
+L8.778 1.470
+M9.570 -0.015 L11.220 -0.015
+M11.550 1.470 
+L9.570 1.470
+L9.570 -1.500
+L11.550 -1.500
+M12.342 -1.500 
+L12.342 1.470
+L13.431 1.470
+A0.742,0.742 0 0,0 13.431,-0.015
+L12.342 -0.015
+L13.497 -0.015
+L14.157 -1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(279.446,161.921) scale(0.900,1.000) "/>
+<path d="M23.759 147.613 L26.259 147.613"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M25.009 148.863 L25.009 146.363"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M19.259 137.653 L22.258 142.849L22.259 142.849"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M30.759 137.653 L27.759 142.849L27.759 142.849"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M29.772 144.862 L29.772 144.862L34.968 141.862"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M36.509 147.613 L30.509 147.613L30.509 147.613"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M29.772 150.363 L29.772 150.363L34.968 153.363"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M30.758 157.572 L27.759 152.376L27.758 152.376"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M25.009 153.113 L25.009 153.113L25.009 159.113"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M19.259 157.572 L22.259 152.376L22.259 152.376"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M20.245 150.362 L20.245 150.363L15.049 153.362"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M13.509 147.613 L19.509 147.613L19.509 147.613"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M20.245 144.863 L20.245 144.863L15.049 141.863"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M-0.547 0.670 
+A0.492,0.492 0 0,0 0.073,1.110
+A0.531,0.531 0 0,0 -0.127,0.070
+A0.655,0.655 0 0,0 0.133,-1.210
+A0.578,0.578 0 0,0 -0.607,-0.710"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(13.369,154.337) scale(0.900,1.000) "/>
+<path d="M-6.275 1.500 L-5.600 -1.500L-4.925 1.500
+M-4.075 -0.825 
+A0.675,0.675 0 0,1 -2.725,-0.825
+L-2.725 0.825
+A0.675,0.675 0 0,1 -4.075,0.825
+L-4.075 -0.825
+M-1.900 1.500 L-1.900 -1.500L-0.925 -1.500
+M-0.075 1.500 
+L-0.075 -0.825
+A0.675,0.675 0 0,1 1.275,-0.825
+L1.275 1.500
+M2.125 -1.500 
+L2.125 1.500
+L3.100 -0.600
+L4.075 1.500
+L4.075 -1.500
+M6.275 1.500 
+L4.925 1.500
+L4.925 -1.500
+L6.275 -1.500
+M4.925 0.000 L6.050 0.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(25.009,161.865) scale(0.900,1.000) "/>
+<path d="M-1.150 0.550 L-0.610 1.150L-0.610 -1.250
+M0.070 -0.710 
+A0.540,0.540 0 0,1 1.150,-0.710
+L1.150 0.610
+A0.540,0.540 0 0,1 0.070,0.610
+L0.070 -0.710"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(31.886,135.729) rotate(360.000) scale(0.900,1.000) "/>
+<path d="M-0.480 -0.710 
+A0.530,0.530 0 0,1 0.000,-1.250
+A0.498,0.498 0 0,1 0.480,-0.770
+L0.480 0.670
+A0.480,0.480 0 0,1 -0.480,0.670
+L-0.480 0.310
+A0.498,0.498 0 0,1 0.480,0.190"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(36.687,140.875) rotate(360.000) scale(0.900,1.000) "/>
+<path d="M0.000 -1.250 
+A0.517,0.517 0 0,1 0.520,-0.730
+L0.520 -0.550
+A0.507,0.507 0 0,1 0.000,-0.050
+A0.477,0.477 0 0,1 0.480,0.430
+L0.480 0.670
+A0.480,0.480 0 0,1 -0.480,0.670
+L-0.480 0.430
+A0.477,0.477 0 0,1 0.000,-0.050
+A0.507,0.507 0 0,1 -0.520,-0.550
+L-0.520 -0.730
+A0.517,0.517 0 0,1 0.000,-1.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(38.490,147.606) scale(0.900,1.000) "/>
+<path d="M-0.510 0.730 
+L-0.510 1.150
+L0.510 1.150
+L-0.270 -1.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(36.687,154.337) scale(0.900,1.000) "/>
+<path d="M0.510 0.610 
+A0.530,0.530 0 0,1 0.030,1.150
+A0.495,0.495 0 0,1 -0.510,0.670
+L-0.510 -0.770
+A0.539,0.539 0 0,1 -0.030,-1.250
+A0.530,0.530 0 0,1 0.510,-0.770
+L0.510 -0.290
+A0.540,0.540 0 0,1 -0.510,-0.110"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(31.886,159.483) scale(0.900,1.000) "/>
+<path d="M-0.513 0.610 
+A0.495,0.495 0 0,0 -0.033,1.150
+A0.523,0.523 0 0,0 0.447,0.370
+L-0.513 -1.250
+L0.507 -1.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(11.566,147.606) scale(0.900,1.000) "/>
+<path d="M-0.270 0.550 L0.270 1.150L0.270 -1.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(13.369,140.875) rotate(360.000) scale(0.900,1.000) "/>
+<path d="M-0.540 -0.710 
+A0.540,0.540 0 0,1 0.540,-0.710
+L0.540 0.610
+A0.540,0.540 0 0,1 -0.540,0.610
+L-0.540 -0.710"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(18.170,135.729) scale(0.900,1.000) "/>
+<path d="M0.270 1.150 L-0.510 -0.650L0.510 -0.650
+M0.270 -0.050 L0.270 -1.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(18.170,159.483) scale(0.900,1.000) "/>
+<path d="M23.760 147.607 L26.260 147.607"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M25.010 148.857 L25.010 146.357"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M33.141 139.475 L28.899 143.717L28.899 143.717"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M30.323 146.183 L30.323 146.183L36.117 144.630"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M36.117 150.583 L30.323 149.030L30.323 149.030"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M28.899 151.496 L28.899 151.496L33.141 155.738"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M27.986 158.714 L26.433 152.920L26.433 152.920"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M23.586 152.920 L23.586 152.920L22.033 158.714"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M16.878 155.738 L21.120 151.496L21.120 151.496"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M19.697 149.030 L19.697 149.030L13.902 150.583"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M13.902 144.630 L19.697 146.183L19.697 146.183"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M21.120 143.717 L21.120 143.717L16.878 139.475"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M1.386 -0.015 
+L2.112 -0.015
+L2.112 -0.510
+A1.056,1.056 0 0,0 0.000,-0.510
+L0.000 0.480
+A1.017,1.017 0 0,0 1.881,1.041
+M3.234 -0.675 L4.884 -0.675
+M2.904 -1.500 L4.059 1.470L5.214 -1.500
+M6.006 1.470 
+L7.986 1.470
+L6.996 1.470
+L6.996 -1.500
+M8.778 -0.015 L10.428 -0.015
+M10.758 1.470 
+L8.778 1.470
+L8.778 -1.500
+L10.758 -1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(206.942,110.857) scale(0.900,1.000) "/>
+<path d="M294.294 26.855 L219.894 26.901"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M-9.787 -1.500 
+L-9.787 1.500
+L-9.112 1.500
+A0.750,0.750 0 0,0 -9.112,0.000
+L-9.787 0.000
+L-9.112 0.000
+L-8.362 -1.500
+M-6.162 1.500 
+L-7.512 1.500
+L-7.512 -1.500
+L-6.162 -1.500
+M-7.512 0.000 L-6.387 0.000
+M-5.312 -0.750 
+A0.750,0.750 0 0,1 -3.812,-0.750
+A0.746,0.746 0 0,1 -4.562,0.000
+A0.750,0.750 0 0,0 -4.562,1.500
+A0.746,0.746 0 0,0 -3.812,0.750
+M-2.962 -0.825 
+A0.675,0.675 0 0,1 -1.612,-0.825
+L-1.612 0.825
+A0.675,0.675 0 0,1 -2.962,0.825
+L-2.962 -0.825
+M-0.762 -1.500 
+L-0.762 1.500
+L0.588 -1.500
+L0.588 1.500
+M1.438 -1.500 L2.338 1.500L3.238 -1.500
+M1.738 -0.600 L2.938 -0.600
+M4.088 -1.500 
+L4.088 1.500
+L5.438 -1.500
+L5.438 1.500
+M7.588 0.850 
+A0.650,0.650 0 0,1 6.288,0.850
+L6.288 -0.850
+A0.650,0.650 0 0,1 7.588,-0.850
+M9.788 1.500 
+L8.438 1.500
+L8.438 -1.500
+L9.788 -1.500
+M8.438 0.000 L9.563 0.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(123.900,102.500) scale(0.900,1.000) "/>
+<path d="M104.887 83.110 
+A0.495,0.495 0 0,0 105.367,83.650
+A0.523,0.523 0 0,0 105.847,82.870
+L104.887 81.250
+L105.907 81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M107.353 92.170 
+A0.492,0.492 0 0,0 107.973,92.610
+A0.531,0.531 0 0,0 107.773,91.570
+A0.655,0.655 0 0,0 108.033,90.290
+A0.578,0.578 0 0,0 107.293,90.790"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M115.170 99.650 L114.390 97.850L115.410 97.850
+M115.170 98.450 L115.170 97.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M107.630 73.550 L108.170 74.150L108.170 71.750"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M139.920 72.290 
+A0.530,0.530 0 0,1 140.400,71.750
+A0.498,0.498 0 0,1 140.880,72.230
+L140.880 73.670
+A0.480,0.480 0 0,1 139.920,73.670
+L139.920 73.310
+A0.498,0.498 0 0,1 140.880,73.190"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M142.900 81.250 
+A0.517,0.517 0 0,1 143.420,81.770
+L143.420 81.950
+A0.507,0.507 0 0,1 142.900,82.450
+A0.477,0.477 0 0,1 143.380,82.930
+L143.380 83.170
+A0.480,0.480 0 0,1 142.420,83.170
+L142.420 82.930
+A0.477,0.477 0 0,1 142.900,82.450
+A0.507,0.507 0 0,1 142.380,81.950
+L142.380 81.770
+A0.517,0.517 0 0,1 142.900,81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M139.890 92.230 
+L139.890 92.650
+L140.910 92.650
+L140.130 90.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M133.910 99.110 
+A0.530,0.530 0 0,1 133.430,99.650
+A0.495,0.495 0 0,1 132.890,99.170
+L132.890 97.730
+A0.539,0.539 0 0,1 133.370,97.250
+A0.530,0.530 0 0,1 133.910,97.730
+L133.910 98.210
+A0.540,0.540 0 0,1 132.890,98.390"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M123.150 82.428 L125.650 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M124.400 83.678 L124.400 81.178"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M116.400 68.572 L120.649 75.932L120.650 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M132.400 68.572 L128.150 75.932L128.150 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M130.895 78.677 L130.895 78.677L138.256 74.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M140.400 82.428 L131.900 82.428L131.900 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M130.895 86.178 L130.895 86.178L138.256 90.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M132.399 96.284 L128.150 88.923L128.149 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M124.400 89.928 L124.400 89.928L124.400 98.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M116.400 96.284 L120.650 88.923L120.650 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M117.904 86.178 L117.904 86.178L110.544 90.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M108.400 82.428 L116.900 82.428L116.900 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M117.904 78.678 L117.904 78.678L110.544 74.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M123.151 82.495 L125.651 82.495"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M124.401 83.745 L124.401 81.245"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M135.361 71.534 L129.704 77.191L129.704 77.191"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M131.645 80.554 L131.645 80.554L139.373 78.483"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M139.373 86.506 L131.645 84.435L131.645 84.435"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M129.704 87.798 L129.704 87.798L135.361 93.455"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M128.412 97.467 L126.341 89.739L126.341 89.739"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M122.460 89.739 L122.460 89.739L120.389 97.467"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M113.440 93.455 L119.097 87.798L119.097 87.798"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M117.156 84.435 L117.156 84.435L109.428 86.506"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M109.428 78.483 L117.156 80.554L117.156 80.554"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M119.097 77.191 L119.097 77.191L113.440 71.534"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M-6.700 -1.500 L-5.800 1.500L-4.900 -1.500
+M-6.400 -0.600 L-5.200 -0.600
+M-4.050 -1.500 
+L-4.050 1.500
+L-3.075 -0.600
+L-2.100 1.500
+L-2.100 -1.500
+M-1.250 -0.825 
+A0.675,0.675 0 0,1 0.100,-0.825
+L0.100 0.825
+A0.675,0.675 0 0,1 -1.250,0.825
+L-1.250 -0.825
+M0.950 1.500 
+L0.950 -0.825
+A0.675,0.675 0 0,1 2.300,-0.825
+L2.300 1.500
+M3.150 -1.500 
+L3.150 1.500
+L4.500 -1.500
+L4.500 1.500
+M5.350 1.500 
+L6.700 1.500
+L6.025 1.500
+L6.025 -1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(174.100,102.500) scale(0.900,1.000) "/>
+<path d="M155.087 83.110 
+A0.495,0.495 0 0,0 155.567,83.650
+A0.523,0.523 0 0,0 156.047,82.870
+L155.087 81.250
+L156.107 81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M157.553 92.170 
+A0.492,0.492 0 0,0 158.173,92.610
+A0.531,0.531 0 0,0 157.973,91.570
+A0.655,0.655 0 0,0 158.233,90.290
+A0.578,0.578 0 0,0 157.493,90.790"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M164.870 99.650 L164.090 97.850L165.110 97.850
+M164.870 98.450 L164.870 97.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M157.830 73.550 L158.370 74.150L158.370 71.750"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M189.620 72.290 
+A0.530,0.530 0 0,1 190.100,71.750
+A0.498,0.498 0 0,1 190.580,72.230
+L190.580 73.670
+A0.480,0.480 0 0,1 189.620,73.670
+L189.620 73.310
+A0.498,0.498 0 0,1 190.580,73.190"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M192.600 81.250 
+A0.517,0.517 0 0,1 193.120,81.770
+L193.120 81.950
+A0.507,0.507 0 0,1 192.600,82.450
+A0.477,0.477 0 0,1 193.080,82.930
+L193.080 83.170
+A0.480,0.480 0 0,1 192.120,83.170
+L192.120 82.930
+A0.477,0.477 0 0,1 192.600,82.450
+A0.507,0.507 0 0,1 192.080,81.950
+L192.080 81.770
+A0.517,0.517 0 0,1 192.600,81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M189.590 92.230 
+L189.590 92.650
+L190.610 92.650
+L189.830 90.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M183.610 99.110 
+A0.530,0.530 0 0,1 183.130,99.650
+A0.495,0.495 0 0,1 182.590,99.170
+L182.590 97.730
+A0.539,0.539 0 0,1 183.070,97.250
+A0.530,0.530 0 0,1 183.610,97.730
+L183.610 98.210
+A0.540,0.540 0 0,1 182.590,98.390"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M172.850 82.428 L175.350 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M174.100 83.678 L174.100 81.178"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M166.100 68.572 L170.349 75.932L170.350 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M182.100 68.572 L177.850 75.932L177.850 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M180.595 78.677 L180.595 78.677L187.956 74.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M190.100 82.428 L181.600 82.428L181.600 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M180.595 86.178 L180.595 86.178L187.956 90.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M182.099 96.284 L177.850 88.923L177.849 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M174.100 89.928 L174.100 89.928L174.100 98.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M166.100 96.284 L170.350 88.923L170.350 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M167.604 86.178 L167.604 86.178L160.244 90.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M158.100 82.428 L166.600 82.428L166.600 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M167.604 78.678 L167.604 78.678L160.244 74.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M172.851 82.495 L175.351 82.495"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M174.101 83.745 L174.101 81.245"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M185.061 71.534 L179.404 77.191L179.404 77.191"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M181.345 80.554 L181.345 80.554L189.073 78.483"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M189.073 86.506 L181.345 84.435L181.345 84.435"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M179.404 87.798 L179.404 87.798L185.061 93.455"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M178.112 97.467 L176.041 89.739L176.041 89.739"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M172.160 89.739 L172.160 89.739L170.089 97.467"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M163.140 93.455 L168.797 87.798L168.797 87.798"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M166.856 84.435 L166.856 84.435L159.128 86.506"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M159.128 78.483 L166.856 80.554L166.856 80.554"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M168.797 77.191 L168.797 77.191L163.140 71.534"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M-9.675 1.500 L-9.000 -1.500L-8.325 1.500
+M-6.175 0.850 
+A0.650,0.650 0 0,1 -7.475,0.850
+L-7.475 -0.850
+A0.650,0.650 0 0,1 -6.175,-0.850
+M-4.125 1.500 
+L-5.325 1.500
+L-5.325 -1.500
+L-5.325 0.000
+L-4.575 0.000
+M-0.875 -1.500 
+L-0.875 1.500
+L-0.275 1.500
+A0.746,0.746 0 0,0 0.475,0.750
+L0.475 -0.750
+A0.746,0.746 0 0,0 -0.275,-1.500
+L-0.875 -1.500
+M2.675 1.500 
+L1.325 1.500
+L1.325 -1.500
+L2.675 -1.500
+M1.325 0.000 L2.450 0.000
+M4.825 0.850 
+A0.650,0.650 0 0,1 3.525,0.850
+L3.525 -0.850
+A0.650,0.650 0 0,1 4.825,-0.850
+M5.675 -1.500 L6.575 1.500L7.475 -1.500
+M5.975 -0.600 L7.175 -0.600
+M8.325 1.500 
+L9.000 -0.375
+L9.000 -1.500
+L9.000 -0.375
+L9.675 1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(223.800,102.500) scale(0.900,1.000) "/>
+<path d="M204.787 83.110 
+A0.495,0.495 0 0,0 205.267,83.650
+A0.523,0.523 0 0,0 205.747,82.870
+L204.787 81.250
+L205.807 81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M207.253 92.170 
+A0.492,0.492 0 0,0 207.873,92.610
+A0.531,0.531 0 0,0 207.673,91.570
+A0.655,0.655 0 0,0 207.933,90.290
+A0.578,0.578 0 0,0 207.193,90.790"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M215.070 99.650 L214.290 97.850L215.310 97.850
+M215.070 98.450 L215.070 97.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M207.530 73.550 L208.070 74.150L208.070 71.750"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M239.820 72.290 
+A0.530,0.530 0 0,1 240.300,71.750
+A0.498,0.498 0 0,1 240.780,72.230
+L240.780 73.670
+A0.480,0.480 0 0,1 239.820,73.670
+L239.820 73.310
+A0.498,0.498 0 0,1 240.780,73.190"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M242.800 81.250 
+A0.517,0.517 0 0,1 243.320,81.770
+L243.320 81.950
+A0.507,0.507 0 0,1 242.800,82.450
+A0.477,0.477 0 0,1 243.280,82.930
+L243.280 83.170
+A0.480,0.480 0 0,1 242.320,83.170
+L242.320 82.930
+A0.477,0.477 0 0,1 242.800,82.450
+A0.507,0.507 0 0,1 242.280,81.950
+L242.280 81.770
+A0.517,0.517 0 0,1 242.800,81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M239.790 92.230 
+L239.790 92.650
+L240.810 92.650
+L240.030 90.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M233.810 99.110 
+A0.530,0.530 0 0,1 233.330,99.650
+A0.495,0.495 0 0,1 232.790,99.170
+L232.790 97.730
+A0.539,0.539 0 0,1 233.270,97.250
+A0.530,0.530 0 0,1 233.810,97.730
+L233.810 98.210
+A0.540,0.540 0 0,1 232.790,98.390"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M223.050 82.428 L225.550 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M224.300 83.678 L224.300 81.178"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M216.300 68.572 L220.549 75.932L220.550 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M232.300 68.572 L228.050 75.932L228.050 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M230.795 78.677 L230.795 78.677L238.156 74.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M240.300 82.428 L231.800 82.428L231.800 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M230.795 86.178 L230.795 86.178L238.156 90.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M232.299 96.284 L228.050 88.923L228.049 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M224.300 89.928 L224.300 89.928L224.300 98.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M216.300 96.284 L220.550 88.923L220.550 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M217.804 86.178 L217.804 86.178L210.444 90.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M208.300 82.428 L216.800 82.428L216.800 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M217.804 78.678 L217.804 78.678L210.444 74.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M223.051 82.495 L225.551 82.495"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M224.301 83.745 L224.301 81.245"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M235.261 71.534 L229.604 77.191L229.604 77.191"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M231.545 80.554 L231.545 80.554L239.273 78.483"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M239.273 86.506 L231.545 84.435L231.545 84.435"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M229.604 87.798 L229.604 87.798L235.261 93.455"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M228.312 97.467 L226.241 89.739L226.241 89.739"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M222.360 89.739 L222.360 89.739L220.289 97.467"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M213.340 93.455 L218.997 87.798L218.997 87.798"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M217.056 84.435 L217.056 84.435L209.328 86.506"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M209.328 78.483 L217.056 80.554L217.056 80.554"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M218.997 77.191 L218.997 77.191L213.340 71.534"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M-6.350 -1.500 L-5.450 1.500L-4.550 -1.500
+M-6.050 -0.600 L-4.850 -0.600
+M-2.400 0.850 
+A0.650,0.650 0 0,1 -3.700,0.850
+L-3.700 -0.850
+A0.650,0.650 0 0,1 -2.400,-0.850
+M-0.250 0.850 
+A0.650,0.650 0 0,1 -1.550,0.850
+L-1.550 -0.850
+A0.650,0.650 0 0,1 -0.250,-0.850
+M1.950 1.500 
+L0.600 1.500
+L0.600 -1.500
+L1.950 -1.500
+M0.600 0.000 L1.725 0.000
+M2.800 -1.500 
+L2.800 1.500
+L4.150 -1.500
+L4.150 1.500
+M5.000 1.500 
+L6.350 1.500
+L5.675 1.500
+L5.675 -1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(274.000,102.500) scale(0.900,1.000) "/>
+<path d="M254.987 83.110 
+A0.495,0.495 0 0,0 255.467,83.650
+A0.523,0.523 0 0,0 255.947,82.870
+L254.987 81.250
+L256.007 81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M257.453 92.170 
+A0.492,0.492 0 0,0 258.073,92.610
+A0.531,0.531 0 0,0 257.873,91.570
+A0.655,0.655 0 0,0 258.133,90.290
+A0.578,0.578 0 0,0 257.393,90.790"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M264.770 99.650 L263.990 97.850L265.010 97.850
+M264.770 98.450 L264.770 97.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M257.730 73.550 L258.270 74.150L258.270 71.750"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M289.520 72.290 
+A0.530,0.530 0 0,1 290.000,71.750
+A0.498,0.498 0 0,1 290.480,72.230
+L290.480 73.670
+A0.480,0.480 0 0,1 289.520,73.670
+L289.520 73.310
+A0.498,0.498 0 0,1 290.480,73.190"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M292.500 81.250 
+A0.517,0.517 0 0,1 293.020,81.770
+L293.020 81.950
+A0.507,0.507 0 0,1 292.500,82.450
+A0.477,0.477 0 0,1 292.980,82.930
+L292.980 83.170
+A0.480,0.480 0 0,1 292.020,83.170
+L292.020 82.930
+A0.477,0.477 0 0,1 292.500,82.450
+A0.507,0.507 0 0,1 291.980,81.950
+L291.980 81.770
+A0.517,0.517 0 0,1 292.500,81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M289.490 92.230 
+L289.490 92.650
+L290.510 92.650
+L289.730 90.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M284.010 99.110 
+A0.530,0.530 0 0,1 283.530,99.650
+A0.495,0.495 0 0,1 282.990,99.170
+L282.990 97.730
+A0.539,0.539 0 0,1 283.470,97.250
+A0.530,0.530 0 0,1 284.010,97.730
+L284.010 98.210
+A0.540,0.540 0 0,1 282.990,98.390"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M272.750 82.428 L275.250 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M274.000 83.678 L274.000 81.178"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M266.000 68.572 L270.249 75.932L270.250 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M282.000 68.572 L277.750 75.932L277.750 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M280.495 78.677 L280.495 78.677L287.856 74.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M290.000 82.428 L281.500 82.428L281.500 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M280.495 86.178 L280.495 86.178L287.856 90.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M281.999 96.284 L277.750 88.923L277.749 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M274.000 89.928 L274.000 89.928L274.000 98.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M266.000 96.284 L270.250 88.923L270.250 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M267.504 86.178 L267.504 86.178L260.144 90.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M258.000 82.428 L266.500 82.428L266.500 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M267.504 78.678 L267.504 78.678L260.144 74.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M272.751 82.495 L275.251 82.495"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M274.001 83.745 L274.001 81.245"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M284.961 71.534 L279.304 77.191L279.304 77.191"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M281.245 80.554 L281.245 80.554L288.973 78.483"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M288.973 86.506 L281.245 84.435L281.245 84.435"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M279.304 87.798 L279.304 87.798L284.961 93.455"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M278.012 97.467 L275.941 89.739L275.941 89.739"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M272.060 89.739 L272.060 89.739L269.989 97.467"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M263.040 93.455 L268.697 87.798L268.697 87.798"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M266.756 84.435 L266.756 84.435L259.028 86.506"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M259.028 78.483 L266.756 80.554L266.756 80.554"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M268.697 77.191 L268.697 77.191L263.040 71.534"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M-8.225 1.500 
+L-9.425 1.500
+L-9.425 -1.500
+L-9.425 0.000
+L-8.675 0.000
+M-7.400 -1.500 
+L-7.400 1.500
+L-6.725 1.500
+A0.750,0.750 0 0,0 -6.725,0.000
+L-7.400 0.000
+L-6.725 0.000
+L-5.975 -1.500
+M-3.775 1.500 
+L-5.125 1.500
+L-5.125 -1.500
+L-3.775 -1.500
+M-5.125 0.000 L-4.000 0.000
+M-2.950 -0.825 
+A0.675,0.675 0 0,1 -1.600,-0.825
+L-1.600 0.825
+A0.675,0.675 0 0,1 -2.950,0.825
+L-2.950 -0.825
+M-1.975 -1.050 L-1.525 -1.500
+M-0.675 1.500 
+L-0.675 -0.825
+A0.675,0.675 0 0,1 0.675,-0.825
+L0.675 1.500
+M2.875 1.500 
+L1.525 1.500
+L1.525 -1.500
+L2.875 -1.500
+M1.525 0.000 L2.650 0.000
+M3.725 -1.500 
+L3.725 1.500
+L5.075 -1.500
+L5.075 1.500
+M7.225 0.850 
+A0.650,0.650 0 0,1 5.925,0.850
+L5.925 -0.850
+A0.650,0.650 0 0,1 7.225,-0.850
+M8.075 1.500 
+L8.750 -0.375
+L8.750 -1.500
+L8.750 -0.375
+L9.425 1.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(74.200,102.250) scale(0.900,1.000) "/>
+<path d="M55.187 82.860 
+A0.495,0.495 0 0,0 55.667,83.400
+A0.523,0.523 0 0,0 56.147,82.620
+L55.187 81.000
+L56.207 81.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M57.653 92.420 
+A0.492,0.492 0 0,0 58.273,92.860
+A0.531,0.531 0 0,0 58.073,91.820
+A0.655,0.655 0 0,0 58.333,90.540
+A0.578,0.578 0 0,0 57.593,91.040"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M65.470 99.900 L64.690 98.100L65.710 98.100
+M65.470 98.700 L65.470 97.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M57.930 73.800 L58.470 74.400L58.470 72.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M89.720 72.540 
+A0.530,0.530 0 0,1 90.200,72.000
+A0.498,0.498 0 0,1 90.680,72.480
+L90.680 73.920
+A0.480,0.480 0 0,1 89.720,73.920
+L89.720 73.560
+A0.498,0.498 0 0,1 90.680,73.440"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M92.700 81.000 
+A0.517,0.517 0 0,1 93.220,81.520
+L93.220 81.700
+A0.507,0.507 0 0,1 92.700,82.200
+A0.477,0.477 0 0,1 93.180,82.680
+L93.180 82.920
+A0.480,0.480 0 0,1 92.220,82.920
+L92.220 82.680
+A0.477,0.477 0 0,1 92.700,82.200
+A0.507,0.507 0 0,1 92.180,81.700
+L92.180 81.520
+A0.517,0.517 0 0,1 92.700,81.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M89.690 92.480 
+L89.690 92.900
+L90.710 92.900
+L89.930 90.500"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M84.210 99.360 
+A0.530,0.530 0 0,1 83.730,99.900
+A0.495,0.495 0 0,1 83.190,99.420
+L83.190 97.980
+A0.539,0.539 0 0,1 83.670,97.500
+A0.530,0.530 0 0,1 84.210,97.980
+L84.210 98.460
+A0.540,0.540 0 0,1 83.190,98.640"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M72.950 82.678 L75.450 82.678"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M74.200 83.928 L74.200 81.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M66.200 68.822 L70.449 76.182L70.450 76.182"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M82.200 68.822 L77.950 76.182L77.950 76.182"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M80.695 78.927 L80.695 78.927L88.056 74.677"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M90.200 82.678 L81.700 82.678L81.700 82.678"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M80.695 86.428 L80.695 86.428L88.056 90.678"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M82.199 96.534 L77.950 89.173L77.949 89.173"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M74.200 90.178 L74.200 90.178L74.200 98.678"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M66.200 96.534 L70.450 89.173L70.450 89.173"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M67.704 86.428 L67.704 86.428L60.344 90.677"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M58.200 82.678 L66.700 82.678L66.700 82.678"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M67.704 78.928 L67.704 78.928L60.344 74.678"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M72.951 82.745 L75.451 82.745"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M74.201 83.995 L74.201 81.495"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M85.161 71.784 L79.504 77.441L79.504 77.441"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M81.445 80.804 L81.445 80.804L89.173 78.733"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M89.173 86.756 L81.445 84.685L81.445 84.685"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M79.504 88.048 L79.504 88.048L85.161 93.705"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M78.212 97.717 L76.141 89.989L76.141 89.989"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M72.260 89.989 L72.260 89.989L70.189 97.717"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M63.240 93.705 L68.897 88.048L68.897 88.048"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M66.956 84.685 L66.956 84.685L59.228 86.756"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M59.228 78.733 L66.956 80.804L66.956 80.804"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M68.897 77.441 L68.897 77.441L63.240 71.784"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M0.000 -1.500 
+L0.000 1.470
+L1.155 -0.675
+L2.310 1.470
+L2.310 -1.500
+M3.102 1.470 L3.102 -1.500
+M3.894 1.470 
+L4.917 1.470
+A0.995,0.995 0 0,0 5.874,0.480
+L5.874 -0.510
+A0.956,0.956 0 0,0 4.917,-1.500
+L3.894 -1.500
+L3.894 1.470
+M6.666 1.470 L6.666 -1.500
+M9.570 1.470 L9.570 -1.500
+M10.362 -1.500 
+L10.362 1.470
+L12.342 -1.500
+L12.342 1.470
+M27.918 -1.500 
+L27.918 1.470
+L29.073 -0.675
+L30.228 1.470
+L30.228 -1.500
+M31.020 1.470 L31.020 -1.500
+M31.812 1.470 
+L32.835 1.470
+A0.995,0.995 0 0,0 33.792,0.480
+L33.792 -0.510
+A0.956,0.956 0 0,0 32.835,-1.500
+L31.812 -1.500
+L31.812 1.470
+M34.584 1.470 L34.584 -1.500
+M37.488 1.470 
+L39.468 1.470
+L38.478 1.470
+L38.478 -1.500
+M40.260 1.470 
+L40.260 -1.500
+L40.260 -0.015
+L42.240 -0.015
+L42.240 -1.500
+L42.240 1.470
+M43.032 -1.500 
+L43.032 1.470
+L44.121 1.470
+A0.742,0.742 0 0,0 44.121,-0.015
+L43.032 -0.015
+L44.187 -0.015
+L44.847 -1.500
+M45.606 1.470 
+L45.606 -0.576
+A0.990,0.990 0 0,1 47.586,-0.576
+L47.586 1.470"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(203.138,162.105) scale(0.900,1.000) "/>
+<path d="M-3.975 1.500 
+L-2.625 1.500
+L-3.300 1.500
+L-3.300 -1.500
+M-1.775 1.500 
+L-1.775 -0.825
+A0.675,0.675 0 0,1 -0.425,-0.825
+L-0.425 1.500
+M0.425 -1.500 
+L0.425 1.500
+L1.775 -1.500
+L1.775 1.500
+M3.975 1.500 
+L2.625 1.500
+L2.625 -1.500
+L3.975 -1.500
+M2.625 0.000 L3.750 0.000"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" transform="translate(24.500,102.500) scale(0.900,1.000) "/>
+<path d="M5.487 83.110 
+A0.495,0.495 0 0,0 5.967,83.650
+A0.523,0.523 0 0,0 6.447,82.870
+L5.487 81.250
+L6.507 81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M7.953 92.670 
+A0.492,0.492 0 0,0 8.573,93.110
+A0.531,0.531 0 0,0 8.373,92.070
+A0.655,0.655 0 0,0 8.633,90.790
+A0.578,0.578 0 0,0 7.893,91.290"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M15.270 99.650 L14.490 97.850L15.510 97.850
+M15.270 98.450 L15.270 97.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M8.230 74.050 L8.770 74.650L8.770 72.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M40.020 72.790 
+A0.530,0.530 0 0,1 40.500,72.250
+A0.498,0.498 0 0,1 40.980,72.730
+L40.980 74.170
+A0.480,0.480 0 0,1 40.020,74.170
+L40.020 73.810
+A0.498,0.498 0 0,1 40.980,73.690"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M43.000 81.250 
+A0.517,0.517 0 0,1 43.520,81.770
+L43.520 81.950
+A0.507,0.507 0 0,1 43.000,82.450
+A0.477,0.477 0 0,1 43.480,82.930
+L43.480 83.170
+A0.480,0.480 0 0,1 42.520,83.170
+L42.520 82.930
+A0.477,0.477 0 0,1 43.000,82.450
+A0.507,0.507 0 0,1 42.480,81.950
+L42.480 81.770
+A0.517,0.517 0 0,1 43.000,81.250"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M39.990 92.730 
+L39.990 93.150
+L41.010 93.150
+L40.230 90.750"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M34.010 99.110 
+A0.530,0.530 0 0,1 33.530,99.650
+A0.495,0.495 0 0,1 32.990,99.170
+L32.990 97.730
+A0.539,0.539 0 0,1 33.470,97.250
+A0.530,0.530 0 0,1 34.010,97.730
+L34.010 98.210
+A0.540,0.540 0 0,1 32.990,98.390"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M23.250 82.428 L25.750 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M24.500 83.678 L24.500 81.178"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M16.500 68.572 L20.749 75.932L20.750 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M32.500 68.572 L28.250 75.932L28.250 75.932"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M30.995 78.677 L30.995 78.677L38.356 74.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M40.500 82.428 L32.000 82.428L32.000 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M30.995 86.178 L30.995 86.178L38.356 90.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M32.499 96.284 L28.250 88.923L28.249 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M24.500 89.928 L24.500 89.928L24.500 98.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M16.500 96.284 L20.750 88.923L20.750 88.923"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M18.004 86.178 L18.004 86.178L10.644 90.427"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M8.500 82.428 L17.000 82.428L17.000 82.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M18.004 78.678 L18.004 78.678L10.644 74.428"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.400mm" fpd:engraving_ral_9010="1" />
+<path d="M23.251 82.495 L25.751 82.495"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M24.501 83.745 L24.501 81.245"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M35.461 71.534 L29.804 77.191L29.804 77.191"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M31.745 80.554 L31.745 80.554L39.473 78.483"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M39.473 86.506 L31.745 84.435L31.745 84.435"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M29.804 87.798 L29.804 87.798L35.461 93.455"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M28.512 97.467 L26.441 89.739L26.441 89.739"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M22.560 89.739 L22.560 89.739L20.489 97.467"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M13.540 93.455 L19.197 87.798L19.197 87.798"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M17.256 84.435 L17.256 84.435L9.528 86.506"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M9.528 78.483 L17.256 80.554L17.256 80.554"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M19.197 77.191 L19.197 77.191L13.540 71.534"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<path d="M219.963 8.913 
+L219.963 6.768
+A0.825,0.825 0 0,1 221.613,6.768
+L221.613 7.098
+A0.825,0.825 0 0,1 219.963,7.098
+L219.963 5.943
+M222.405 7.923 
+L222.405 6.768
+A0.825,0.825 0 0,1 224.055,6.768
+L224.055 5.943
+L224.055 7.923
+M224.847 8.913 L224.847 8.748
+M224.847 7.923 L224.847 5.943
+M225.639 8.913 L225.639 6.339A0.402,0.402 0 0,1 225.969,5.943
+M228.411 8.913 
+L228.411 6.768
+A0.826,0.826 0 0,0 226.761,6.702
+L226.761 7.098
+A0.825,0.825 0 0,0 228.411,7.098
+L228.411 5.943
+M231.315 8.913 
+L231.315 6.768
+A0.825,0.825 0 0,1 232.965,6.768
+L232.965 7.098
+A0.825,0.825 0 0,1 231.315,7.098
+L231.315 5.943
+M233.757 7.923 L234.549 6.042
+M235.407 7.923 L234.219 5.250A0.500,0.500 0 0,0 233.757,4.953
+M238.311 8.913 
+L239.334 8.913
+A0.995,0.995 0 0,0 240.291,7.923
+L240.291 6.933
+A0.956,0.956 0 0,0 239.334,5.943
+L238.311 5.943
+L238.311 8.913
+M242.997 8.616 
+A0.783,0.783 0 0,1 242.535,8.913
+A1.864,1.864 0 0,1 241.611,8.880
+A0.882,0.882 0 0,1 241.149,8.550
+A0.604,0.604 0 0,1 241.446,7.626
+L242.601 7.230
+A0.604,0.604 0 0,0 242.898,6.306
+A0.882,0.882 0 0,0 242.436,5.976
+A1.864,1.864 0 0,0 241.512,5.943
+A0.783,0.783 0 0,0 241.050,6.240
+M243.789 8.913 L243.789 5.943L245.439 5.943
+M246.231 7.428 L247.947 7.428
+M248.739 5.943 
+L248.739 7.923
+L248.739 7.263
+A0.660,0.660 0 0,0 250.059,7.263
+L250.059 5.943
+L250.059 7.263
+A0.660,0.660 0 0,0 251.379,7.263
+L251.379 5.943
+M253.887 7.923 
+L253.887 6.768
+A0.858,0.858 0 0,0 252.171,6.768
+L252.171 7.098
+A0.858,0.858 0 0,0 253.887,7.098
+L253.887 6.306
+A0.481,0.481 0 0,1 254.283,5.877
+M255.075 5.943 
+L255.075 7.923
+L255.075 7.098
+A0.825,0.825 0 0,0 256.725,7.098
+L256.725 5.943"
+fill="none" vector-effect="non-scaling-stroke" stroke="#ffffff" stroke-width="0.200mm" fpd:engraving_ral_9010="1" />
+<circle cx="101.926" cy="110.810" r="2.500"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="247.663" cy="110.810" r="2.500"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="272.770" cy="161.680" r="1.500"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="25.009" cy="147.593" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="200.772" cy="110.810" r="2.500"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="124.400" cy="82.500" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="174.100" cy="82.500" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="224.300" cy="82.500" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="274.000" cy="82.500" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="74.200" cy="82.250" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="59.776" cy="145.895" r="2.500"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+<circle cx="24.500" cy="82.500" r="4.762"
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" 
+/>
+</g>
+</svg>
