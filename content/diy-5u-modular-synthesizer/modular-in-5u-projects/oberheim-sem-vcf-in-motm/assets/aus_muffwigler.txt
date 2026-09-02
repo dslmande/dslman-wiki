@@ -1,0 +1,41 @@
+For the moment I'm just getting this thread together as a placeholder, look for more detailed info soon!
+
+Link to BOM:
+https://docs.google.com/file/d/0Byb1hJRK5lw6OU9ZRmpGVy1yM1U/edit?pli=1
+
+Link to Synthcube site for ordering:
+http://synthcube.com/cart/index.php?route=product/product&product_id=1 77
+
+Link to original thread:
+http://www.muffwiggler.com/forum/viewtopic.php?t=69431
+
+The PCB with component values:
+
+
+The original schematics (page 6), all components not marked with a '$' are the exactly the same as the original with this layout.
+
+http://www.synthfool.com/docs/Oberheim/Oberheim_SEM1A/Oberheim_SEM_1A_ Schematics.pdf
+
+My schematics:
+
+
+
+There are 3 100n SMT caps mounted on the bottom of the board. If you really don't want to deal with SMT, the filter will still work without them.
+
+The components marked with a $ are for the version with VC Resonance.
+
+The components marked with a * are for the original version, but they are left off on the vc res build.
+
+the FET buffer transistors (2N4302 on the original) are the two in the middle of the board in this picture. The silkscreen shows the correct orientation for the 4302, but there are two additional pins which make it easier to use a substitute without having to bed pins.
+
+The 2n3904 and 2n3906 pair are poorly labeled (not labeled...). They are the two without any markings and the 2n3906 is the one with a trace connected to its middle pin.
+
+you will probably need to stretch the pins of the 5pF capacitor above the LM301. To be sure, just don't let it's leads touch the board directly.
+
+There are 3 150K resistors on the board, all three will be 120K instead for a 12V version. However, one of the 150K is only needed for vc-res, so you can ignore that one.
+
+The inputs are on the bottom left and the pins are: Input, Ground.
+
+The outputs are on the bottom right and the pins are: Ground, LP, HP, BP, Variable.
+
+The pots mount on the component side of the board. 

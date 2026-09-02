@@ -1,0 +1,115 @@
+Partlist
+
+Exported from GM5_standalone_expanded_autorouted.brd at 26.05.20 21:41
+
+EAGLE Version 9.6.1 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package               Library  Position (mm)         Orientation
+
+BREAKOUT                JP4                   CEDRIK   (0 73.2028)           R0
+C1       10uF           WCAP-ATET_5X11(DXL)   CEDRIK   (-2.54 54.61)         R0
+C2       10nF           C2.5-2                CEDRIK   (11.43 62.23)         R270
+C3       22pF           C2.5-2                CEDRIK   (66.675 55.88)        R90
+C4       22pF           C2.5-2                CEDRIK   (66.675 63.5)         R270
+C5       100nF          C2.5-2                CEDRIK   (80.0735 62.5475)     R270
+C7       100nF          C2.5-2                CEDRIK   (0 33.655)            R180
+C8       100nF          C2.5-2                CEDRIK   (40.005 33.655)       R180
+C9       100nF          C2.5-2                CEDRIK   (80.01 33.655)        R180
+C10      100nF          C2.5-2                CEDRIK   (120.65 33.655)       R180
+C11      100nF          C2.5-2                CEDRIK   (161.29 33.655)       R180
+C36      1uF            C2.5/5-4              CEDRIK   (93.218 69.215)       R90
+D1       5Vdc           WE-TVS_SOT23-6L       CEDRIK   (6.985 54.61)         R180
+D2       1N4148DO35-10  DO35-10               CEDRIK   (-6.985 25.4)         R270
+D3       1N4148DO35-10  DO35-10               CEDRIK   (33.655 25.4)         R270
+D4       1N4148DO35-10  DO35-10               CEDRIK   (74.295 25.4)         R270
+D5       1N4148DO35-10  DO35-10               CEDRIK   (114.935 25.4)        R270
+D6       1N4148DO35-10  DO35-10               CEDRIK   (155.575 25.4)        R270
+D7                      LED3MM                CEDRIK   (10.2235 36.83)       R180
+D8                      LED3MM                CEDRIK   (10.2235 48.26)       R180
+D9                      LED3MM                CEDRIK   (51.1175 36.83)       R180
+D10                     LED3MM                CEDRIK   (51.1175 48.26)       R180
+D11                     LED3MM                CEDRIK   (92.0115 36.83)       R180
+D12                     LED3MM                CEDRIK   (92.0115 48.26)       R180
+D13                     LED3MM                CEDRIK   (132.9055 36.83)      R180
+D14                     LED3MM                CEDRIK   (132.9055 48.26)      R180
+D15                     LED3MM                CEDRIK   (173.7995 36.83)      R180
+D16                     LED3MM                CEDRIK   (173.7995 48.26)      R180
+D17                     LED3MM                CEDRIK   (110.49 52.07)        R0
+IN1      MAB5SH         MAB5SH                CEDRIK   (0 5.08)              R0
+IN2      MAB5SH         MAB5SH                CEDRIK   (40.894 5.08)         R0
+IN3      MAB5SH         MAB5SH                CEDRIK   (81.788 5.08)         R0
+IN4      MAB5SH         MAB5SH                CEDRIK   (122.682 5.08)        R0
+IN5      MAB5SH         MAB5SH                CEDRIK   (163.576 5.08)        R0
+JP1                     JP2                   CEDRIK   (0 5.08)              R180
+JP2                     JP2                   CEDRIK   (20.447 5.08)         R180
+JP3                     JP2                   CEDRIK   (40.894 5.08)         R180
+JP4                     JP2                   CEDRIK   (61.341 5.08)         R180
+JP5                     JP2                   CEDRIK   (81.788 5.08)         R180
+JP6                     JP2                   CEDRIK   (102.235 5.08)        R180
+JP7                     JP2                   CEDRIK   (122.682 5.08)        R180
+JP8                     JP2                   CEDRIK   (143.129 5.08)        R180
+JP9                     JP2                   CEDRIK   (163.576 5.08)        R180
+JP10                    JP2                   CEDRIK   (184.023 5.08)        R180
+JP11                    JP3Q                  CEDRIK   (80.01 51.4985)       R180
+L1       120Ohm@100MHz  WE-CBF_1206(W=5.2)    CEDRIK   (-7.62 54.61)         R270
+L2       120Ohm@100MHz  WE-CBF_1206(W=5.2)    CEDRIK   (2.54 49.53)          R180
+L3       90Ohm@ 100 MHz WE-CNSW_1206          CEDRIK   (12.7 54.61)          R0
+L4       120Ohm@100MHz  WE-CBF_1206(W=5.2)    CEDRIK   (17.526 63.5)         R180
+OUT1     MAB5SH         MAB5SH                CEDRIK   (20.447 5.08)         R0
+OUT2     MAB5SH         MAB5SH                CEDRIK   (61.341 5.08)         R0
+OUT3     MAB5SH         MAB5SH                CEDRIK   (102.235 5.08)        R0
+OUT4     MAB5SH         MAB5SH                CEDRIK   (143.129 5.08)        R0
+OUT5     MAB5SH         MAB5SH                CEDRIK   (184.023 5.08)        R0
+R1       27R            0207/10               CEDRIK   (82.55 73.025)        R0
+R2       27R            0207/10               CEDRIK   (82.55 67.945)        R180
+R3       220R           0207/10               CEDRIK   (-3.175 25.4)         R270
+R4       4K7            0207/10               CEDRIK   (12.065 26.67)        R270
+R5       220R           0207/10               CEDRIK   (27.305 25.4)         R270
+R6       1K             0207/10               CEDRIK   (17.145 25.4)         R270
+R7       220R           0207/10               CEDRIK   (22.225 25.4)         R90
+R8       ?R             0207/10               CEDRIK   (16.51 42.545)        R90
+R9       ?R             0207/10               CEDRIK   (21.59 42.545)        R90
+R10      ?              0207/10               CEDRIK   (121.285 52.07)       R0
+R11      220R           0207/10               CEDRIK   (37.465 25.4)         R270
+R12      4K7            0207/10               CEDRIK   (52.705 25.4)         R270
+R13      1K             0207/10               CEDRIK   (57.785 25.4)         R270
+R14      220R           0207/10               CEDRIK   (62.865 25.4)         R90
+R15      ?R             0207/10               CEDRIK   (57.785 42.545)       R90
+R16      ?R             0207/10               CEDRIK   (62.865 42.545)       R90
+R17      220R           0207/10               CEDRIK   (67.945 25.4)         R270
+R18      220R           0207/10               CEDRIK   (78.105 25.4)         R270
+R19      4K7            0207/10               CEDRIK   (93.345 26.67)        R270
+R20      1K             0207/10               CEDRIK   (98.425 25.4)         R270
+R21      220R           0207/10               CEDRIK   (103.505 25.4)        R90
+R22      ?R             0207/10               CEDRIK   (97.79 42.545)        R90
+R23      ?R             0207/10               CEDRIK   (102.87 42.545)       R90
+R24      220R           0207/10               CEDRIK   (108.585 25.4)        R270
+R25      220R           0207/10               CEDRIK   (118.745 25.4)        R270
+R26      4K7            0207/10               CEDRIK   (133.985 25.4)        R270
+R27      1K             0207/10               CEDRIK   (139.065 25.4)        R270
+R28      220R           0207/10               CEDRIK   (144.145 25.4)        R90
+R29      ?R             0207/10               CEDRIK   (138.43 42.545)       R90
+R30      ?R             0207/10               CEDRIK   (143.51 42.545)       R90
+R31      220R           0207/10               CEDRIK   (149.225 25.4)        R270
+R32      220R           0207/10               CEDRIK   (159.385 25.4)        R270
+R33      4K7            0207/10               CEDRIK   (174.625 26.67)       R270
+R34      1K             0207/10               CEDRIK   (179.705 25.4)        R270
+R35      220R           0207/10               CEDRIK   (184.785 25.4)        R90
+R36      ?R             0207/10               CEDRIK   (179.705 42.545)      R90
+R37      ?R             0207/10               CEDRIK   (184.785 42.545)      R90
+R38      220R           0207/10               CEDRIK   (189.865 25.4)        R270
+U1       ATMEGA8U2-AU   QFP80P900X900X120-32N CEDRIK   (92.0115 59.69)       R0
+U2       74HC14         DIL14                 CEDRIK   (30.226 45.72)        R90
+U3       74HC14         DIL14                 CEDRIK   (41.656 45.72)        R90
+U4       74HC14         DIL14                 CEDRIK   (76.2 42.545)         R0
+U5       74HC14         DIL14                 CEDRIK   (116.84 42.545)       R0
+U6       74HC14         DIL14                 CEDRIK   (157.48 42.545)       R0
+U7       6N138          DIL08                 CEDRIK   (4.445 25.4)          R270
+U8       6N138          DIL08                 CEDRIK   (45.085 25.4)         R270
+U9       6N138          DIL08                 CEDRIK   (85.725 25.4)         R270
+U10      6N138          DIL08                 CEDRIK   (126.365 25.4)        R270
+U11      6N138          DIL08                 CEDRIK   (167.005 25.4)        R270
+USB      USB_B_PTH      USB-B-PTH             CEDRIK   (0 68.8876)           R270
+Y1       16MHz          HC49US                CEDRIK   (71.755 59.69)        R270

@@ -1,0 +1,46 @@
+Amount	What		Value
+2	Ceramic cap 3mm		22pF 50V
+20	Ceramic cap 3mm		100n 50V
+2	Poly cap 3mm		10n* 63V		(are marked as *100n on the PCB, they are part of the output filter. 100nF is a bit more mellow sounding)
+3	Electrolytic Cap		10uF 50V 85C
+1	Electrolytic Cap		47uF 50V 85C
+2	Diode		1N4004
+16	Schottky Diode		BAT42 or BAT48
+1	DAC		MCP4802-E/P
+1	VoltageRegulator		L7805ABV
+1	Multiplexer		CD4051BE
+6	Quad OpAmp		TL074
+1	PowerConnector Euro		-
+1	PowerConnecter MOTM		-
+3	Ferrite Bead		-
+1	Crystal		20Mhz
+46	Resistor 0.6W 1%metalfilm		100k
+1	Resistor 0.6W 1%metalfilm		10k
+3	Resistor 0.6W 1%metalfilm		110k
+5	Resistor 0.6W 1%metalfilm		1k
+5	Resistor 0.6W 1%metalfilm		220R
+2	Resistor 0.6W 1%metalfilm		3.3M
+1	Resistor 0.6W 1%metalfilm		47k
+2	Trim pot, multiturn, vertical		10k
+3	Leds 3mm		color of choice
+3	Led lens 4,3mm		color of choice
+10	MTA100 socket male		2pin
+4	MTA100 socket male		3pin
+10	MTA100 socket female		2pin
+4	MTA100 socket female		3pin
+6	IC socket		14pin
+1	IC socket		16pin
+1	IC socket		28pin
+1	IC socket		8pin
+3	Switch, SPDT/on-on, 		BBM(Break before make) (6mm if using original euro panel)
+4	Standoff		8mm
+4	Standoff		25mm
+12	M3 bolt		-
+2	Aluminum bracket		-
+8	M3 nut		locking
+1	powercable		-
+9	Potentiometer 16mm		100k,linear
+4	Potentiometer 9mm		100k,linear
+13	Knob		model and color of choice
+9	Jack 3.5mm		kobikonn
+lots	Wires		MultiColour
